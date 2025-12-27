@@ -1,0 +1,86 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* assets/css/style.css */
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    background: #000;
+    object-fit: cover;
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* New styles for the clickable image */
+.video-container img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.video-container img:hover {
+    transform: scale(1.02);
+}
+
+.tile-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.tile {
+  position: relative;
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+}
+
+.tile img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.tile:hover img {
+  transform: scale(1.1);
+}
+
+.tooltip {
+  visibility: hidden;
+  width: 180px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -90px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tile:hover .tooltip {
+  visibility: visible;
+  opacity: 1;
+}

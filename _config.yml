@@ -1,0 +1,30 @@
+theme: jekyll-theme-cayman
+title: 🙃 Yutaka Nagashima 🙂
+subtitle: Proofs and More
+email: nagashima+cs.cas.cz (replace + with @)
+description: >- # this means to ignore newlines until "baseurl:"
+  Theorem proving and all that. 🤷
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# Add links to the subpages
+navigation:
+  - name: Home
+    link: /
+  - name: Research
+    link: /research
+  - name: Publication
+    link: /publication
+
+# Navigation links
+header_pages:
+  - index.markdown           # Root level page
+  - research/index.markdown  # Only show this research page
+  - publication.markdown
+
+twitter_username: YutakangE
+github_username:  yutakang
+mastodon_username: yutakang_en
+mastodon_instance: mastodon.social
+damus_npub: npub1d5tew3uncka5e5g63jlw7jef70uwx5t3ndgppug5942qy38e8lns7a827x
+youtube_channel: unitedreasoning
+bluesky_username: yutaka-en
