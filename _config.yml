@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: AI, Proof and Verification (AIPV)
-subtitle: Proofs and More
+subtitle: Colocated with FM2025 in Tokyo
 email: nagashima+cs.cas.cz (replace + with @)
 description: >- # this means to ignore newlines until "baseurl:"
   Colocated with FM2025 in Tokyo
@@ -10,21 +10,20 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 navigation:
   - name: Home
     link: /
-  - name: Research
-    link: /research
-  - name: Publication
-    link: /publication
+#  - name: Research
+#    link: /research
+#  - name: Publication
+#    link: /publication
 
 # Navigation links
 header_pages:
   - index.markdown           # Root level page
-  - research/index.markdown  # Only show this research page
-  - publication.markdown
+#  - research/index.markdown  # Only show this research page
+#  - publication.markdown
 
 twitter_username: YutakangE
 github_username:  yutakang
 mastodon_username: yutakang_en
 mastodon_instance: mastodon.social
-damus_npub: npub1d5tew3uncka5e5g63jlw7jef70uwx5t3ndgppug5942qy38e8lns7a827x
 youtube_channel: unitedreasoning
 bluesky_username: yutaka-en
