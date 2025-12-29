@@ -7,9 +7,9 @@ filename: index.markdown
 # AI, Proof and Verification 2026 (AIPV2026)
 
 ## Table of Contents
-1. [About Me](#about-me)
-2. [My Journey](#my-journey)
-3. [Educational Background](#educational-background)
+1. [About AIPV](#about-AIPV)
+2. [Organization](#organization)
+3. [Dates](#important-dates)
 4. [Contact](#contact)
 
 ---
@@ -45,6 +45,15 @@ The AI for Proof and Verification (AIPV) addresses precisely these needs. By gat
     <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/yutaka_nagashima.png" height="170"> <!-- Adjust margin as needed -->
   </a>
 </div>
+
+## Important Dates
+The following is the tentative timeline of AIPV
+- Workshop paper/abstract submission: March 15 2026 (23:59 AoE)
+- Notification of acceptance: April 15 2026 (23:59 AoE)
+- Early registration deadline: April 18 2026
+- 
+- Camera-ready submission: April 30 2026 (23:59 AoE)
+- Workshop date: One day during FM 2026 (May 20–22 2026)
 
 ## Contact
 
