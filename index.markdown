@@ -32,7 +32,19 @@ The AI for Proof and Verification (AIPV) addresses precisely these needs. By gat
 ![Logo](./images/aipv.png)
 
 ## Organization
-TBA
+- [Stefan Ratschan](https://www.cs.cas.cz/~ratschan/)
+- [Yutaka Nagashima](https://yutakang.github.io)
+- [Jonathan Julián Huerta y Munive](https://jjhym.com.mx)
+- [Andreea Costea](https://andrecostea.github.io)
+
+<div style="display: flex; align-items: center;">
+  <a href="https://www.cs.cas.cz/~ratschan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/image/stefan_ratchan.jpg" height="170"> <!-- Adjust margin as needed -->
+  </a>
+  <a href="https://yutakang.github.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/image/yutaka_nagashima.png" height="170"> <!-- Adjust margin as needed -->
+  </a>
+</div>
 
 ## Contact
 
