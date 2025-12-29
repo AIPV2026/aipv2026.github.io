@@ -29,7 +29,7 @@ The AI for Proof and Verification (AIPV) addresses precisely these needs. By gat
 - Bridge the culture gap between AI and logic-based communities through dialogue and collaboration.
 - Chart new directions for AI-assisted formal reasoning that balance scalability with soundness and trust.
 
-![Logo](./images/wait2024.png)
+![Logo](./images/aipv.png)
 
 ## Organization
 TBA
