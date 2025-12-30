@@ -2,6 +2,7 @@
 layout: default
 title: Poster
 filename: poster.markdown
+permalink: /poster/
 ---
 
 <a href="{{ '/assets/pdfs/AIPV2026_poster.pdf' | relative_url }}" download="AIPV2026_poster.pdf">
