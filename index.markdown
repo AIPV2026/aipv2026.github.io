@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Yutaka Nagashima
+title: AIPV2026
 filename: index.markdown
 ---
 
