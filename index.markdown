@@ -60,3 +60,5 @@ The following is the tentative timeline of AIPV
 ## Contact
 
 The main point of contact is my email address: `nagashima+cs.cas.cz` (replace `+` with `@`).
+
+<img id="randomImage" src="" alt="Random Image">
