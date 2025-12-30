@@ -12,6 +12,8 @@ filename: index.markdown
 3. [Dates](#important-dates)
 4. [Contact](#contact)
 
+![Logo](./assets/images/aipv.png)
+
 ---
 
 ## About AIPV
@@ -58,5 +60,3 @@ The following is the tentative timeline of AIPV
 ## Contact
 
 The main point of contact is my email address: `nagashima+cs.cas.cz` (replace `+` with `@`).
-
-![Logo](./assets/images/aipv.png)
