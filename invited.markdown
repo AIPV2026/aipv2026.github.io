@@ -8,3 +8,5 @@ permalink: /invited/
 # Invited Speakers
 
 TBA
+
+<img id="randomImage" src="" alt="Random Image">
