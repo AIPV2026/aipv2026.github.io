@@ -35,7 +35,7 @@ The AI for Proof and Verification (AIPV) addresses precisely these needs. By gat
 - [Yutaka Nagashima](https://yutakang.github.io) at Czech Academy of Sciences
 - [Jonathan Julián Huerta y Munive](https://jjhym.com.mx) at Aalborg University
 - [Andreea Costea](https://andrecostea.github.io) at TU Delft
-- - [Stefan Ratschan](https://www.cs.cas.cz/~ratschan/) at Czech Academy of Sciences
+- [Stefan Ratschan](https://www.cs.cas.cz/~ratschan/) at Czech Academy of Sciences
 
 <div style="display: flex; align-items: center;">
   <a href="https://yutakang.github.io" target="_blank">
