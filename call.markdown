@@ -8,3 +8,5 @@ permalink: /call/
 # Call for Papers/Abstracts
 
 TBA
+
+<img id="randomImage" src="" alt="Random Image">
