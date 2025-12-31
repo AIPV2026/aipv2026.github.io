@@ -8,3 +8,5 @@ permalink: /program/
 # Program
 
 TBA
+
+<img id="randomImage" src="" alt="Random Image">
