@@ -42,6 +42,9 @@ The AI for Proof and Verification (AIPV) addresses precisely these needs. By gat
   <a href="https://jjhym.com.mx" target="_blank">
     <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/jonathan_huerta.jpg" height="170"> <!-- Adjust margin as needed -->
   </a>
+  <a href="https://andrecostea.github.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/andreea_costea.png" height="170"> <!-- Adjust margin as needed -->
+  </a>
   <a href="https://www.cs.cas.cz/~ratschan/" target="_blank">
     <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/stefan_ratchan.jpg" height="170"> <!-- Adjust margin as needed -->
   </a>
