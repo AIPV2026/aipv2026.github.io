@@ -12,8 +12,6 @@ filename: index.markdown
 3. [Dates](#important-dates)
 4. [Contact](#contact)
 
-![Logo](./assets/images/aipv.png)
-
 ---
 
 ## About AIPV
