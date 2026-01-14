@@ -30,9 +30,9 @@ Your support will help us:
 To keep things simple and approachable for our first edition, we offer three levels of sponsorship:
 
 Tier | Contribution | Benefits
-**Supporter** | 50k JPY | Logo on website + acknowledgement during the opening
-**Contributor** | 15k JPY | Supporter benefits + organization description and links on website
-**Partner** | 30k JPY | Contributor benefits + optional demo table or short organization introduction (schedule and space permitting)
+**Supporter** | JPY 50,000 (≈ USD 330) | Logo on website + acknowledgement during the opening
+**Contributor** | JPY 150,000 (≈ USD 1,000) | Supporter benefits + organization description and links on website
+**Partner** | JPY 300,000 (≈ USD 2,000) | Contributor benefits + optional demo table or short organization introduction (schedule and space permitting)
 
 If these levels do not match your organization’s policy, we are happy to discuss custom options (e.g., ¥100,000, ¥200,000, ¥500,000).
 Even small contributions are welcome and appreciated.
