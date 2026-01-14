@@ -7,8 +7,9 @@ permalink: /call4sponsorship/
 
 # Call for Sponsorship
 
+Collocated with [FM 2026](https://conf.researchr.org/home/fm-2026) | May 18–19, 2026 (exact workshop date TBA) |  Tokyo, Japan
+
 ## AI, Proof and Verification (AIPV)
-Collocated with [FM 2026](https://conf.researchr.org/home/fm-2026) | May 18–19, 2026 |  Tokyo, Japan
 
 We kindly invite companies, research organizations, and academic/industrial partners to consider supporting the 1st International Workshop on AI, Proof and Verification (AIPV).
 
