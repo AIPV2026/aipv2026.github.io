@@ -70,3 +70,5 @@ For the convenience of Japanese organizations and readers, a Japanese version of
 [Japanese version 🇯🇵]({{ "/call4sponsorship_jp/" | relative_url }})
 
 Please note that the English version is the official and authoritative version. In the event of any discrepancy, the English version shall prevail.
+
+<img id="randomImage" src="" alt="Random Image">
