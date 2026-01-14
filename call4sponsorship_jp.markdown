@@ -9,7 +9,7 @@ permalink: /call4sponsorship_jp/
 
 AIPV（[FM 2026](https://conf.researchr.org/home/fm-2026) 併催） | 開催予定日：2026年5月18–19日（正確な日程は後日確定）| 開催地：東京
 
-※ 本日本語版は、便宜のために作成した参考訳です。正式な「Call for Sponsorship」は英語版を正とします。内容に差異がある場合は、英語版の記載が優先されます。
+※ 本日本語版は、便宜のために作成した参考訳です。正式な「Call for Sponsorship」は[英語版]({{ "/call4sponsorship/" | relative_url }})とします。内容に差異がある場合は、英語版の記載が優先されます。
 
 Note: This Japanese version is provided for convenience only. The official and authoritative version of the Call for Sponsorship is [the English version]({{ "/call4sponsorship/" | relative_url }}). In the event of any discrepancy, the English version shall prevail.
 
