@@ -53,7 +53,9 @@ AIPV 2026 is designed as a **community-driven event** with a focus on collaborat
 ## Contact
 If your organization is interested or would like further information, please contact:
 AIPV 2026 Organizing Committee
+
 📩 nagashima+cs.cas.cz (replace + with @).
+
 (or any organizer individually)
 
 We would greatly appreciate expressions of interest by late February 2026, if possible, to support smooth planning.
