@@ -59,6 +59,15 @@ If you have any concerns, feel free to contact us; we will do our best to find a
 - [Yutaka Nagashima](https://yutakang.github.io/) (Czech Academy of Sciences) 
 - [Jonathan Julián Huerta y Munive](https://jjhym.com.mx/) (Aalborg University) 
 - [Andreea Costea](https://andrecostea.github.io/) (Delft University of Technology)
-- [Stefan Ratschan](https://www.cs.cas.cz/~ratschan/) (Czech Academy of Sciences) 
+- [Stefan Ratschan](https://www.cs.cas.cz/~ratschan/) (Czech Academy of Sciences)
+
+
+## Japanese Version
+
+For the convenience of Japanese researchers and students, a Japanese version of this Call for Contributions is also available:
+
+[Japanese version 🇯🇵]({{ "/call4contributions_jp/" | relative_url }})
+
+Please note that the English version is the official and authoritative version. In the event of any discrepancy, the English version shall prevail.
 
 <img id="randomImage" src="" alt="Random Image">
