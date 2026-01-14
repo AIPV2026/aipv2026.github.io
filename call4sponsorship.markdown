@@ -48,7 +48,8 @@ Even small contributions are welcome and appreciated.
 AIPV 2026 is designed as a **community-driven event** with a focus on collaboration over competition. Sponsorships directly support:
 - Invited speaker travel/accommodation,
 - Student support for attending and presenting,
-- Logistics enabling tool/demo sessions.
+- Logistics enabling tool/demo sessions,
+- Organization of an official networking reception or social event to facilitate participant interaction (if applicable).
 
 ## Contact
 If your organization is interested or would like further information, please contact:
