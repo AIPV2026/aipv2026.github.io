@@ -84,3 +84,8 @@
   visibility: visible;
   opacity: 1;
 }
+
+table td:nth-child(2),
+table th:nth-child(2) {
+  white-space: nowrap;
+}
