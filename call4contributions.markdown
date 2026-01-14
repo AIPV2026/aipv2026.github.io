@@ -7,7 +7,7 @@ permalink: /call4contributions/
 
 # Call for Contributions: 1st Workshop on AI, Proof and Verification (AIPV 2026)
 
-Collocated with FM 2026 May 18–19, 2026 | Japan 
+Collocated with [FM 2026](https://conf.researchr.org/home/fm-2026) | May 18–19, 2026 | Japan 
 
 ## Overview
 
