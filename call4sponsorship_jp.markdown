@@ -9,6 +9,10 @@ permalink: /call4sponsorship_jp/
 
 AIPV（[FM 2026](https://conf.researchr.org/home/fm-2026) 併催） | 開催予定日：2026年5月18–19日（正確な日程は後日確定）| 開催地：東京
 
+※ 本日本語版は、便宜のために作成した参考訳です。正式な「Call for Sponsorship」は英語版を正とします。内容に差異がある場合は、英語版の記載が優先されます。
+
+Note: This Japanese version is provided for convenience only. The official and authoritative version of the Call for Sponsorship is [the English version]({{ "/call4sponsorship/" | relative_url }}). In the event of any discrepancy, the English version shall prevail.
+
 ## AI, Proof and Verification（AIPV）について
 
 このたび、**第1回 国際ワークショップ「AI, Proof and Verification（AIPV）」**の開催にあたり、企業・研究機関・産学連携パートナーの皆様に、協賛のご検討をお願い申し上げます。
@@ -51,7 +55,7 @@ AIPVは、以下の分野を横断的につなぐことを目的とした国際�
 AIPV 2026は、競争よりも協調と対話を重視したコミュニティ主導型のイベントとして企画されています。
 ご協賛は、主に以下の用途に直接充てられます。
 
-- 招待講演者の渡航・滞在支援
+- 招待講演者の参加登録費・渡航・滞在支援
 - 学生参加者の支援
 - デモ・展示セッション実施に必要な運営費
 - 参加者交流を目的とした公式懇親会／ネットワーキングイベントの開催（実施する場合）
