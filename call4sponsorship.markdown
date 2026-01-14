@@ -67,6 +67,6 @@ We look forward to working with you!
 
 For the convenience of Japanese organizations and readers, a Japanese version of this Call for Sponsorship is also available:
 
-👉 [Japanese version]({{ "/call4sponsorship_jp/" | relative_url }})
+[Japanese version 🇯🇵]({{ "/call4sponsorship_jp/" | relative_url }})
 
 Please note that the English version is the official and authoritative version. In the event of any discrepancy, the English version shall prevail.
