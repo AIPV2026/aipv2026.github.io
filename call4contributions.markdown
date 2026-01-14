@@ -17,12 +17,12 @@ While artificial intelligence (AI) and machine learning (ML) have shown remarkab
 
 We invite contributions that balance scalability with soundness at the intersection of AI and formal reasoning. Topics include, but are not limited to:
 
-- AI for Theorem Proving: Guiding interactive proof search and improving automation in higher-order logics or dependent type theories.
-- AI for Formal Verification: Novel methods for scaling verification in safety-critical and industrial domains.
-- Reasoning with LLMs: Assessing and improving the capabilities of LLMs for rigorous symbolic inference and compositional tasks.
-- Translation & Representation: Reliable translation between informal and formal representations.
-- Benchmarks and Datasets: Development of rigorous testbeds where correctness and explainability are mandatory.
-- Interdisciplinary Approaches: Bridging the culture gap between empirical performance and formal rigor.
+- **AI for Theorem Proving**: Guiding interactive proof search and improving automation in higher-order logics or dependent type theories.
+- **AI for Formal Verification**: Novel methods for scaling verification in safety-critical and industrial domains.
+- **Reasoning with LLMs**: Assessing and improving the capabilities of LLMs for rigorous symbolic inference and compositional tasks.
+- **Translation & Representation**: Reliable translation between informal and formal representations.
+- **Benchmarks and Datasets**: Development of rigorous testbeds where correctness and explainability are mandatory.
+- **Interdisciplinary Approaches**: Bridging the culture gap between empirical performance and formal rigor.
 
 ## Submission Types
 
