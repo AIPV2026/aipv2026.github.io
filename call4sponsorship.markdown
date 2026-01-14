@@ -34,7 +34,7 @@ Tier | Contribution | Benefits
 **Contributor** | JPY 150,000 (≈ USD 1,000) | Supporter benefits + organization description and links on website
 **Partner** | JPY 300,000 (≈ USD 2,000) | Contributor benefits + optional demo table or short organization introduction (schedule and space permitting)
 
-If these levels do not match your organization’s policy, we are happy to discuss custom options (e.g., ¥100,000, ¥200,000, ¥500,000).
+If these levels do not match your organization’s policy, we are happy to discuss custom options (e.g., JPY 100,000, JPY 200,000, JPY 500,000).
 Even small contributions are welcome and appreciated.
 
 ## Why Sponsor AIPV 2026?
