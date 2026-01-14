@@ -10,10 +10,13 @@ permalink: /call4contributions_jp/
 第1回 AI・証明・検証ワークショップ（AIPV 2026）
 [FM 2026](https://conf.researchr.org/home/fm-2026) 併催｜2026年5月18–19日｜東京
 
-※ 本日本語版は、便宜のために作成した参考訳です。正式な Call for Contributions は英語版を正とします。内容に差異がある場合は、英語版の記載が優先されます。
+※ 本日本語版は、便宜のために作成した参考訳です。正式な Call for Contributions は[英語版]({{ "/call4contributions_jp/" | relative_url }})を正とします。
+内容に差異がある場合は、英語版の記載が優先されます。
 なお、本ワークショップは国際ワークショップとして開催され、発表および議論は原則として英語で行われることを想定しています。
 
-Note: This Japanese version is provided for convenience only. The official and authoritative version of the Call for Contributions is the English version. In the event of any discrepancy, the English version shall prevail.
+Note: This Japanese version is provided for convenience only. 
+The official and authoritative version of the Call for Contributions is [the English version]({{ "/call4contributions_jp/" | relative_url }}). 
+In the event of any discrepancy, the English version shall prevail.
 As this is an international workshop, presentations and discussions are generally expected to be conducted in English.
 
 ## 概要
