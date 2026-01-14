@@ -62,3 +62,11 @@ AIPV 2026 Organizing Committee
 We would greatly appreciate expressions of interest by late February 2026, if possible, to support smooth planning.
 We sincerely hope you will consider supporting AIPV 2026 and joining us in Tokyo for a productive and exciting exchange on AI-assisted rigorous reasoning.
 We look forward to working with you!
+
+## Japanese Version
+
+For the convenience of Japanese organizations and readers, a Japanese version of this Call for Sponsorship is also available:
+
+👉 [Japanese version]({{ "/call4sponsorship_jp/" | relative_url }})
+
+Please note that the English version is the official and authoritative version. In the event of any discrepancy, the English version shall prevail.
