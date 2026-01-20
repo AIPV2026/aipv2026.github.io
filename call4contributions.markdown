@@ -48,6 +48,10 @@ For previously published or accepted work, please ensure that sharing a PDF or p
 
 If you have any concerns, feel free to contact us; we will do our best to find a suitable arrangement.
 
+## Submission
+
+We welcome submissions through [EasyChair](https://easychair.org/conferences/?conf=aipv2026).
+
 ## Important Dates
 
 - Workshop Paper Submission: March 15, 2026 (23:59 AoE) 
