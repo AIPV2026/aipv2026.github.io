@@ -44,7 +44,7 @@ AIPVは、**簡潔で建設的**なワークショップです。
 
 ## 投稿方法
 
-論文投稿は、[EasyChair](https://easychair.org/conferences/?conf=aipv2026)を通じて受け付けています。
+論文や要約の投稿は、[EasyChair](https://easychair.org/conferences/?conf=aipv2026)を通じて受け付けています。
 
 以下の種類の投稿を歓迎します。
 
