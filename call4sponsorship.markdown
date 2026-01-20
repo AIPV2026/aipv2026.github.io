@@ -63,6 +63,10 @@ We would greatly appreciate expressions of interest by late February 2026, if po
 We sincerely hope you will consider supporting AIPV 2026 and joining us in Tokyo for a productive and exciting exchange on AI-assisted rigorous reasoning.
 We look forward to working with you!
 
+## Submission
+
+Please submit all contributions through [EasyChair](https://easychair.org/conferences/?conf=aipv2026).
+
 ## Japanese Version
 
 For the convenience of Japanese organizations and readers, a Japanese version of this Call for Sponsorship is also available:
