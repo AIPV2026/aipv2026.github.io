@@ -6,6 +6,8 @@ filename: index.markdown
 
 # AI, Proof and Verification 2026 (AIPV2026)
 
+Collocated with [FM 2026](https://conf.researchr.org/home/fm-2026) | May 18–19, 2026 | Tokyo, Japan 
+
 ## Table of Contents
 1. [About AIPV](#about-AIPV)
 2. [Organization](#organization)
