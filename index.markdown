@@ -60,6 +60,10 @@ The following is the tentative timeline of AIPV
 - Camera-ready submission: April 30 2026 (23:59 AoE)
 - Workshop date: One day during FM 2026 (May 18-19 2026)
 
+## Venue
+
+AIPV2026 will take place at [Hitotsubashi Hall](https://www.hit-u.ac.jp/hall/accessen.html) in Tokyo, Japan.
+
 ## Submission
 
 We welcome submissions through [EasyChair](https://easychair.org/conferences/?conf=aipv2026).
