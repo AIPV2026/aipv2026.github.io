@@ -77,6 +77,10 @@ AIPVは、**簡潔で建設的**なワークショップです。
 - 最終原稿提出：2026年4月30日（23:59 AoE）
 - 開催日：2026年5月18–19日のいずれか1日
 
+##
+
+AIPV2026は、[一橋講堂（Hitotsubashi Hall）](https://www.hit-u.ac.jp/hall/accessjp.html)にて開催予定です。
+
 ## Organization
 - [Yutaka Nagashima](https://yutakang.github.io/) (チェコ科学アカデミー)
 - [Jonathan Julián Huerta y Munive](https://jjhym.com.mx/) (オーボ大学) 
