@@ -21,9 +21,9 @@ header_pages:
 #  - research/index.markdown  # Only show this research page
 #  - publication.markdown
 
-twitter_username: YutakangE
-github_username:  yutakang
-mastodon_username: yutakang_en
+twitter_username: AIPV_series
+#github_username:  yutakang
+mastodon_username: AIPV
 mastodon_instance: mastodon.social
-youtube_channel: unitedreasoning
-bluesky_username: yutaka-en
+#youtube_channel: unitedreasoning
+bluesky_username: aipv-series
