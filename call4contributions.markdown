@@ -59,6 +59,10 @@ We welcome submissions through [EasyChair](https://easychair.org/conferences/?co
 - Camera-ready Submission: April 30, 2026 (23:59 AoE) 
 - Workshop Date: One day between May 18–19, 2026
 
+## Venue
+
+AIPV2026 will take place at [Hitotsubashi Hall](https://www.hit-u.ac.jp/hall/accessen.html) in Tokyo, Japan.
+
 ## Organization
 - [Yutaka Nagashima](https://yutakang.github.io/) (Czech Academy of Sciences) 
 - [Jonathan Julián Huerta y Munive](https://jjhym.com.mx/) (Aalborg University) 
