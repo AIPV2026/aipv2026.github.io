@@ -32,10 +32,10 @@ The AI for Proof and Verification (AIPV) addresses precisely these needs. By gat
 - Chart new directions for AI-assisted formal reasoning that balance scalability with soundness and trust.
 
 ## Organising Team
-- [Yutaka Nagashima](https://yutakang.github.io) at Czech Academy of Sciences
+- [Yutaka Nagashima](https://yutakang.github.io) at the Czech Academy of Sciences
 - [Jonathan Julián Huerta y Munive](https://jjhym.com.mx) at Aalborg University
 - [Andreea Costea](https://andrecostea.github.io) at TU Delft
-- [Stefan Ratschan](https://www.cs.cas.cz/~ratschan/) at Czech Academy of Sciences
+- [Stefan Ratschan](https://www.cs.cas.cz/~ratschan/) at the Czech Academy of Sciences
 
 <div style="display: flex; align-items: center;">
   <a href="https://yutakang.github.io" target="_blank">
@@ -54,7 +54,7 @@ The AI for Proof and Verification (AIPV) addresses precisely these needs. By gat
 
 ## Local Organising Team
 - [Minchao Wu](https://minchaowu.github.io) at the University of Tokyo
-- [Yutaka Nagashima](https://yutakang.github.io) at Czech Academy of Sciences
+- [Yutaka Nagashima](https://yutakang.github.io) at the Czech Academy of Sciences
 
 <div style="display: flex; align-items: center;">
   <a href="https://minchaowu.github.io" target="_blank">
