@@ -5,7 +5,7 @@ filename: invited.markdown
 permalink: /invited/
 ---
 
-# Invited Speakers
+# Keynote Talks
 
 TBA
 
