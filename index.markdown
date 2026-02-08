@@ -31,7 +31,7 @@ The AI for Proof and Verification (AIPV) addresses precisely these needs. By gat
 - Bridge the culture gap between AI and logic-based communities through dialogue and collaboration.
 - Chart new directions for AI-assisted formal reasoning that balance scalability with soundness and trust.
 
-## Organization
+## Organising Team
 - [Yutaka Nagashima](https://yutakang.github.io) at Czech Academy of Sciences
 - [Jonathan Julián Huerta y Munive](https://jjhym.com.mx) at Aalborg University
 - [Andreea Costea](https://andrecostea.github.io) at TU Delft
@@ -52,6 +52,10 @@ The AI for Proof and Verification (AIPV) addresses precisely these needs. By gat
   </a>
 </div>
 
+## Local Organising Team
+- [Minchao Wu](https://minchaowu.github.io) at the University of Tokyo
+- [Yutaka Nagashima](https://yutakang.github.io) at Czech Academy of Sciences
+
 ## Important Dates
 The following is the tentative timeline of AIPV
 - Workshop paper/abstract submission: March 15 2026 (23:59 AoE)
@@ -59,6 +63,12 @@ The following is the tentative timeline of AIPV
 - Early registration deadline: April 18 2026
 - Camera-ready submission: April 30 2026 (23:59 AoE)
 - Workshop date: One day during FM 2026 (May 18-19 2026)
+
+<div style="display: flex; align-items: center;">
+  <a href="https://yutakang.github.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/yutaka_nagashima.png" height="170"> <!-- Adjust margin as needed -->
+  </a>
+</div>
 
 ## Venue
 
