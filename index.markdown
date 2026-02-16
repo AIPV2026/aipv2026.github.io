@@ -54,6 +54,7 @@ The AI for Proof and Verification (AIPV) addresses precisely these needs. By gat
 
 ## Local Organising Team
 - [Minchao Wu](https://minchaowu.github.io)
+- Kensho Tsurusaki
 - [Yutaka Nagashima](https://yutakang.github.io)
 
 <div style="display: flex; align-items: center;">
