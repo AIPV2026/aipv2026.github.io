@@ -22,7 +22,7 @@ Conrad Watt is an Assistant Professor at Nanyang Technological University, Singa
 ### Bibliography
 Biography forthcoming.
 
-## [Cristian Szegedy](https://www.linkedin.com/in/christian-szegedy-bb284816)
+## [Christian Szegedy](https://www.linkedin.com/in/christian-szegedy-bb284816)
 
 ### Bibliography
 Biography forthcoming.
