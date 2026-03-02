@@ -10,8 +10,7 @@ permalink: /invited/
 ## [Conrad Watt](https://conrad-watt.github.io) at [Nanyang Technological University Singapore](https://www.ntu.edu.sg)
 
 <a href="https://conrad-watt.github.io" target="_blank">
-<img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/conrad_watt.jpg" style="height:170px; float:left; margin-right:15px;">
-  > <!-- Adjust margin as needed -->
+<img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/conrad_watt.jpg" style="height:170px; float:left; margin-right:15px;"> <!-- Adjust margin as needed -->
 </a>
 
 ### Bibliography
