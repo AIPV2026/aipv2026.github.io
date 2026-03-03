@@ -18,8 +18,17 @@ Conrad Watt is an Assistant Professor at Nanyang Technological University, Singa
 
 ## [Nobuko Yoshida](https://www.cs.ox.ac.uk/people/nobuko.yoshida/) at [The University of Oxford](https://www.ox.ac.uk/)
 
+<a href="https://conrad-watt.github.io" target="_blank">
+<img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/nobuko_yoshida.png" style="height:170px; float:left; margin-right:15px;">
+</a>
+
 ### Bibliography
-Biography forthcoming.
+Nobuko Yoshida is Christopher Strachey Chair of Computing at the University of Oxford. Her research focuses on programming languages, concurrency theory, and formal verification. She is known for her work on session types, behavioural types, and type systems for communication-based
+software, contributing to the foundations of safe and structured interaction in distributed systems.
+
+Her work combines semantic theory with system design, supporting the development of formally specified communication protocols for distributed and cyber-physical systems. She has led international research projects and collaborated with industry and interdisciplinary partners.
+
+She is a recipient of Horizon TaRDIS project which develops programming language tools for distributed intelligent swarms, decentralised AI agents and the next generation of IoT systems, and ARIA funding for a project on safe-guarded AI, which investigates mathematically grounded methods for reliability and accountability in advanced AI systems. Her research connects type theory, concurrency, verification, and the design of trustworthy software systems.
 
 ## [Christian Szegedy](https://www.linkedin.com/in/christian-szegedy-bb284816)
 
