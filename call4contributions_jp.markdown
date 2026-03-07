@@ -57,6 +57,14 @@ AIPVは、**簡潔で建設的**なワークショップです。
 
 論文や要約の投稿は、[EasyChair](https://easychair.org/conferences/?conf=aipv2026)を通じて受け付けています。
 
+## 書式
+
+原稿の書式について特定の指定はありませんが、必要に応じてEasyChairのLaTeXクラス（[easychair.cls](https://easychair.org/publications/for_authors)）を使用しても構いません。参考文献および付録はページ制限の対象外とします。
+
+## 匿名性
+
+AIPV2026への投稿は匿名化する必要はありません。
+
 ## 資料共有・公開方針
 
 提出されたPDF（または機密情報を除いた版）は、参加者が事前および会期中に閲覧できるよう、ワークショップのウェブサイトに掲載する予定です。
