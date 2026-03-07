@@ -39,6 +39,14 @@ We welcome the following types of contributions:
 
 Submissions will be evaluated by a program committee with a constructive attitude. Accepted works may be presented as full talks, lightning talks, or posters.
 
+## Formatting Instructions
+
+We do not enforce a strict formatting template; however, authors may use the EasyChair LaTeX class ([easychair.cls](https://easychair.org/publications/for_authors)) if convenient. References and appendices are allowed and do not count toward the page limit.
+
+## Anonymity
+
+Submissions to AIPV 2026 do not need to be anonymized.
+
 ## Sharing and Availability Policy
 
 We plan to place submitted PDF files (or non-confidential versions) on the workshop website so that participants can access them before and during the event. However, we understand that some authors may have constraints due to publisher policies or project-specific considerations.
