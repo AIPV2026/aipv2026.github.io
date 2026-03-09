@@ -33,6 +33,9 @@ She is a recipient of Horizon TaRDIS project which develops programming language
 ## [Christian Szegedy](https://www.linkedin.com/in/christian-szegedy-bb284816)
 
 ### Biography
-Biography forthcoming.
+
+Christian Szegedy is a computer scientist known for his contributions to deep learning and neural network design. He contributed to the development of GoogLeNet (Inception v1), which helped shape modern convolutional neural network architectures, and co-authored one of the first papers on adversarial examples, drawing attention to robustness issues in neural networks.
+
+After his work at Google Research, he co-founded xAI, served as Chief Scientist at Morph Labs, and co-founded Math Inc. His career spans foundational research in machine learning, large-scale applied systems, and early-stage AI ventures.
 
 <img id="randomImage" src="" alt="Random Image">
