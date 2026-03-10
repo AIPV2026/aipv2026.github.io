@@ -85,11 +85,11 @@ AIPV2026への投稿は匿名化する必要はありません。
 - 最終原稿提出：2026年4月30日（23:59 AoE）
 - 開催日：2026年5月18–19日のいずれか1日
 
-##
+## 会場
 
 AIPV2026は、[一橋講堂（Hitotsubashi Hall）](https://www.hit-u.ac.jp/hall/accessjp.html)にて開催予定です。
 
-## Organization
+## 運営組織
 - [Yutaka Nagashima](https://yutakang.github.io/) (チェコ科学アカデミー)
 - [Jonathan Julián Huerta y Munive](https://jjhym.com.mx/) (オーボ大学) 
 - [Andreea Costea](https://andrecostea.github.io/) (デルフト工科大学) 
