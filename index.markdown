@@ -69,6 +69,10 @@ The AI for Proof and Verification (AIPV) addresses precisely these needs. By gat
   </a>
 </div>
 
+## Administrative Support
+
+The administrative and financial operations of AIPV 2026 are supported by ASTER (Association for Software Test Engineering and Research), which kindly assists with sponsorship processing and financial management for the workshop.
+
 ## Important Dates
 The following is the tentative timeline of AIPV
 - Workshop paper/abstract submission: March 15 2026 (23:59 AoE)
