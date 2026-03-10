@@ -71,7 +71,7 @@ The AI for Proof and Verification (AIPV) addresses precisely these needs. By gat
 
 ## Administrative Support
 
-The administrative and financial operations of AIPV 2026 are supported by ASTER (Association for Software Test Engineering and Research), which kindly assists with sponsorship processing and financial management for the workshop.
+The administrative and financial operations of AIPV 2026 are supported by [ASTER (Association for Software Test Engineering and Research)](https://www.aster.or.jp/en/index.html), which kindly assists with sponsorship processing and financial management for the workshop.
 
 <div style="display: flex; align-items: center;">
   <a href="https://aster.or.jp/en/index.html" target="_blank">
