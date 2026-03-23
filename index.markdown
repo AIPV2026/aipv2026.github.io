@@ -91,7 +91,7 @@ The following is the tentative timeline of AIPV
 - Notification of acceptance: April 15 2026 (23:59 AoE)
 - Early registration deadline: April 18 2026
 - Camera-ready submission: April 30 2026 (23:59 AoE)
-- Workshop date: One day during FM 2026 (May 18-19 2026)
+- Workshop date: ~~One day~~ Two days before FM 2026 (May 18-19 2026)
 
 ## Venue
 
