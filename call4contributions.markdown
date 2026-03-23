@@ -65,7 +65,7 @@ We welcome submissions through [EasyChair](https://easychair.org/conferences/?co
 - Workshop Paper Submission: March 15, 2026 (23:59 AoE) 
 - Notification of Acceptance: April 15, 2026 (23:59 AoE) 
 - Camera-ready Submission: April 30, 2026 (23:59 AoE) 
-- Workshop Date: One day between May 18–19, 2026
+- Workshop date: ~~One day~~ Two days before FM 2026 (May 18-19 2026)
 
 ## Venue
 
