@@ -85,6 +85,16 @@ The administrative and financial operations of AIPV 2026 are supported by [ASTER
   </a>
 </div>
 
+## Sponsor
+
+### Partner
+
+<div style="display: flex; align-items: center;">
+  <a href="https://www.harmonic.fun" target="_blank">
+    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/sponsor/harmonic_logo.png" height="170"> <!-- Adjust margin as needed -->
+  </a>
+</div>
+
 ## Important Dates
 The following is the tentative timeline of AIPV
 - Workshop paper/abstract submission: March 15 2026 (23:59 AoE)
