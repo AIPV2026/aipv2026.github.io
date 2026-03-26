@@ -81,7 +81,8 @@ The administrative and financial operations of AIPV 2026 are supported by [ASTER
 
 <div style="display: flex; align-items: center;">
   <a href="https://aster.or.jp/en/index.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/aster.jpg" height="170"> <!-- Adjust margin as needed -->
+    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/aster.jpg"
+     style="max-width: 100%; height: auto;"><!-- Adjust margin as needed -->
   </a>
 </div>
 
