@@ -11,8 +11,12 @@ Collocated with [FM 2026](https://conf.researchr.org/home/fm-2026) | May 18–19
 ## Table of Contents
 1. [About AIPV](#about-AIPV)
 2. [Organization](#organization)
-3. [Dates](#important-dates)
-4. [Contact](#contact)
+3. [Local Organising Team](#local-organising-team)
+4. [Administrative Support](#administrative-support)
+5. [Sponsor (Partner)](#sponsor-partner)
+6. [Dates](#important-dates)
+7. [Venue](#venue)
+8. [Contact](#contact)
 
 ---
 
