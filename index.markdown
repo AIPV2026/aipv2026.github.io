@@ -95,9 +95,15 @@ The administrative and financial operations of AIPV 2026 are supported by [ASTER
   </a>
 </div>
 
+<a href="{{ '/assets/images/sponsor/harmonic_postcard.pdf' | relative_url }}" download="harmonic_postcard.pdf">
+  <img src="{{ '/assets/images/sponsor/harmonic_postcard.jpg' | relative_url }}" 
+       alt="Harmonic Postcard" 
+       style="max-width: 100%; height: auto;">
+</a>
+
 ## Important Dates
 The following is the tentative timeline of AIPV
-- Workshop paper/abstract submission: March 15 2026 (23:59 AoE)
+- ~~Workshop paper/abstract submission: March 15 2026 (23:59 AoE)~~
 - Notification of acceptance: April 15 2026 (23:59 AoE)
 - Early registration deadline: April 18 2026
 - Camera-ready submission: April 30 2026 (23:59 AoE)
