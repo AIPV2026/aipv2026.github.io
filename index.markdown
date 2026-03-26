@@ -86,9 +86,7 @@ The administrative and financial operations of AIPV 2026 are supported by [ASTER
   </a>
 </div>
 
-## Sponsor
-
-### Partner
+## Sponsor (Partner)
 
 <div style="display: flex; align-items: center;">
   <a href="https://www.harmonic.fun" target="_blank">
