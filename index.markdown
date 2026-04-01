@@ -119,7 +119,7 @@ AIPV2026 will take place at [Hitotsubashi Hall](https://www.hit-u.ac.jp/hall/acc
 
 ## Submission
 
-We welcome submissions through [EasyChair](https://easychair.org/conferences/?conf=aipv2026).
+The submission deadline has passed, but inquiries about possible contributions are welcome. Please contact the organiser at nagashima+cs.cas.cz (replace + with @).
 
 ## Contact
 
