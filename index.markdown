@@ -99,7 +99,7 @@ The AI for Proof and Verification (AIPV) addresses precisely these needs. By gat
 
 <div class="tile-container">
   <a href="https://yutakang.github.io" class="tile">
-    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/yutaka_nagashima.png" alt="Yutaka">
+    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/yutaka_nagashima_park.jpeg" alt="Yutaka">
     <span class="tooltip">Link to the page of Yutaka.</span>
   </a>
 
