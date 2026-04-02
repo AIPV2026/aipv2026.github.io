@@ -47,6 +47,28 @@ The AI for Proof and Verification (AIPV) addresses precisely these needs. By gat
 - [Andreea Costea](https://andrecostea.github.io) at TU Delft
 - [Stefan Ratschan](https://www.cs.cas.cz/~ratschan/) at the Czech Academy of Sciences
 
+<div class="tile-container">
+  <a href="https://yutakang.github.io" class="tile">
+    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/yutaka_nagashima.png" alt="Yutaka">
+    <span class="tooltip">Link to the page of Yutaka.</span>
+  </a>
+
+  <a href="https://jjhym.com.mx" class="tile">
+    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/jonathan_huerta.jpg" alt="Jonathan">
+    <span class="tooltip">Link to the page of Jonathan.</span>
+  </a>
+
+  <a href="https://andrecostea.github.io" class="tile">
+    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/andreea_costea.jpg" alt="Andreea">
+    <span class="tooltip">Link to the page of Andreea.</span>
+  </a>
+
+    <a href="https://www.cs.cas.cz/~ratschan/" class="tile">
+    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/stefan_ratchan.jpg" alt="Stefan R">
+    <span class="tooltip">Link to the page of Stefan.</span>
+  </a>
+</div>
+
 <div style="display: flex; align-items: center;">
   <a href="https://yutakang.github.io" target="_blank">
     <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/yutaka_nagashima.png" height="170"> <!-- Adjust margin as needed -->
@@ -66,18 +88,6 @@ The AI for Proof and Verification (AIPV) addresses precisely these needs. By gat
 - [Minchao Wu](https://minchaowu.github.io)
 - Kensho Tsurusaki at the University of Tokyo and the National Institute of Informatics
 - [Yutaka Nagashima](https://yutakang.github.io) at the Czech Academy of Sciences
-
-<div style="display: flex; align-items: center;">
-  <a href="https://minchaowu.github.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/minchao_wu.jpg" height="170"> <!-- Adjust margin as needed -->
-  </a>
-  <a>
-    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/kensho_tsurusaki.png" height="170"> <!-- Adjust margin as needed -->
-  </a>
-  <a href="https://yutakang.github.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/yutaka_nagashima_park.jpeg" height="170"> <!-- Adjust margin as needed -->
-  </a>
-</div>
 
 <div class="tile-container">
   <a href="https://minchaowu.github.io" class="tile">
