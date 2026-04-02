@@ -49,7 +49,7 @@ The AI for Proof and Verification (AIPV) addresses precisely these needs. By gat
 
 <div class="tile-container">
   <a href="https://yutakang.github.io" class="tile">
-    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/yutaka_nagashima.png" alt="Yutaka">
+    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/yutaka_nagashima_park.jpeg" alt="Yutaka">
     <span class="tooltip">Link to the page of Yutaka.</span>
   </a>
 
@@ -85,15 +85,15 @@ The AI for Proof and Verification (AIPV) addresses precisely these needs. By gat
   </a>
 
   <a href="https://yutakang.github.io" class="tile">
-    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/yutaka_nagashima_park.jpeg" alt="Yutaka">
+    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/yutaka_nagashima.png" alt="Yutaka">
     <span class="tooltip">Link to the page for machine learning.</span>
   </a>
 </div>
 
 ## Review Team
-- [Yutaka Nagashima](https://yutakang.github.io) at the Czech Academy of Sciences
-- [Jonathan Julián Huerta y Munive](https://jjhym.com.mx) at Aalborg University
 - [Andreea Costea](https://andrecostea.github.io) at TU Delft
+- [Jonathan Julián Huerta y Munive](https://jjhym.com.mx) at Aalborg University
+- [Yutaka Nagashima](https://yutakang.github.io) at the Czech Academy of Sciences
 - [Stefan Ratschan](https://www.cs.cas.cz/~ratschan/) at the Czech Academy of Sciences
 - [Stefan Nugraha](https://www.cs.cas.cz/staff/nugraha/en) at the Czech Academy of Sciences
 
@@ -103,14 +103,14 @@ The AI for Proof and Verification (AIPV) addresses precisely these needs. By gat
     <span class="tooltip">Link to the page of Andreea.</span>
   </a>
   
-  <a href="https://yutakang.github.io" class="tile">
-    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/yutaka_nagashima_park.jpeg" alt="Yutaka">
-    <span class="tooltip">Link to the page of Yutaka.</span>
-  </a>
-
   <a href="https://jjhym.com.mx" class="tile">
     <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/jonathan_huerta.jpg" alt="Jonathan">
     <span class="tooltip">Link to the page of Jonathan.</span>
+  </a>
+
+  <a href="https://yutakang.github.io" class="tile">
+    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/yutaka_nagashima_park.jpeg" alt="Yutaka">
+    <span class="tooltip">Link to the page of Yutaka.</span>
   </a>
 
   <a href="https://www.cs.cas.cz/~ratschan/" class="tile">
