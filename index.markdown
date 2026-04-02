@@ -118,7 +118,7 @@ The AI for Proof and Verification (AIPV) addresses precisely these needs. By gat
     <span class="tooltip">Link to the page of Stefan.</span>
   </a>
 
-  <a href="https://www.cs.cas.cz/staff/nugraha/en" class="tile">
+  <a href="https://stefannug.github.io/" class="tile">
     <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/stefan_nugraha.jpg" alt="Stefan N">
     <span class="tooltip">Link to the page of Stefan.</span>
   </a>
