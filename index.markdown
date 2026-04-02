@@ -90,6 +90,41 @@ The AI for Proof and Verification (AIPV) addresses precisely these needs. By gat
   </a>
 </div>
 
+## Review Team
+- [Yutaka Nagashima](https://yutakang.github.io) at the Czech Academy of Sciences
+- [Jonathan Julián Huerta y Munive](https://jjhym.com.mx) at Aalborg University
+- [Andreea Costea](https://andrecostea.github.io) at TU Delft
+- [Stefan Ratschan](https://www.cs.cas.cz/~ratschan/) at the Czech Academy of Sciences
+- [Stefan Nugraha](https://www.cs.cas.cz/staff/nugraha/en) at the Czech Academy of Sciences
+
+<div class="tile-container">
+  <a href="https://yutakang.github.io" class="tile">
+    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/yutaka_nagashima.png" alt="Yutaka">
+    <span class="tooltip">Link to the page of Yutaka.</span>
+  </a>
+
+  <a href="https://jjhym.com.mx" class="tile">
+    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/jonathan_huerta.jpg" alt="Jonathan">
+    <span class="tooltip">Link to the page of Jonathan.</span>
+  </a>
+
+  <a href="https://andrecostea.github.io" class="tile">
+    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/andreea_costea.jpg" alt="Andreea">
+    <span class="tooltip">Link to the page of Andreea.</span>
+  </a>
+
+  <a href="https://www.cs.cas.cz/~ratschan/" class="tile">
+    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/stefan_ratchan.jpg" alt="Stefan R">
+    <span class="tooltip">Link to the page of Stefan.</span>
+  </a>
+
+  <a href="https://www.cs.cas.cz/staff/nugraha/en" class="tile">
+    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/stefan_nugraha.jpg" alt="Stefan N">
+    <span class="tooltip">Link to the page of Stefan.</span>
+  </a>
+</div>
+
+
 ## Administrative Support
 
 The administrative and financial operations of AIPV 2026 are supported by [ASTER (Association for Software Test Engineering and Research)](https://www.aster.or.jp/en/index.html), which kindly assists with sponsorship processing and financial management for the workshop.
