@@ -98,6 +98,11 @@ The AI for Proof and Verification (AIPV) addresses precisely these needs. By gat
 - [Stefan Nugraha](https://www.cs.cas.cz/staff/nugraha/en) at the Czech Academy of Sciences
 
 <div class="tile-container">
+  <a href="https://andrecostea.github.io" class="tile">
+    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/andreea_costea.jpg" alt="Andreea">
+    <span class="tooltip">Link to the page of Andreea.</span>
+  </a>
+  
   <a href="https://yutakang.github.io" class="tile">
     <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/yutaka_nagashima_park.jpeg" alt="Yutaka">
     <span class="tooltip">Link to the page of Yutaka.</span>
@@ -106,11 +111,6 @@ The AI for Proof and Verification (AIPV) addresses precisely these needs. By gat
   <a href="https://jjhym.com.mx" class="tile">
     <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/jonathan_huerta.jpg" alt="Jonathan">
     <span class="tooltip">Link to the page of Jonathan.</span>
-  </a>
-
-  <a href="https://andrecostea.github.io" class="tile">
-    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/andreea_costea.jpg" alt="Andreea">
-    <span class="tooltip">Link to the page of Andreea.</span>
   </a>
 
   <a href="https://www.cs.cas.cz/~ratschan/" class="tile">
