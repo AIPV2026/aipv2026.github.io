@@ -79,6 +79,22 @@ The AI for Proof and Verification (AIPV) addresses precisely these needs. By gat
   </a>
 </div>
 
+<div class="tile-container">
+  <a href="https://minchaowu.github.io" class="tile">
+    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/minchao_wu.jpg" alt="Minchao">
+    <span class="tooltip">Link to the page for machine learning.</span>
+  </a>
+
+  <a>
+    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/kensho_tsurusaki.png" height="170"> <!-- Adjust margin as needed -->
+  </a>
+
+  <a href="https://yutakang.github.io" class="tile">
+    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/yutaka_nagashima_park.jpeg" alt="Yutaka">
+    <span class="tooltip">Link to the page for machine learning.</span>
+  </a>
+</div>
+
 ## Administrative Support
 
 The administrative and financial operations of AIPV 2026 are supported by [ASTER (Association for Software Test Engineering and Research)](https://www.aster.or.jp/en/index.html), which kindly assists with sponsorship processing and financial management for the workshop.
