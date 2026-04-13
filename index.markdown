@@ -154,9 +154,11 @@ The administrative and financial operations of AIPV 2026 are supported by [ASTER
 ## Important Dates
 The following is the tentative timeline of AIPV
 - ~~Workshop paper/abstract submission: March 15 2026 (23:59 AoE)~~
-- Notification of acceptance: April 15 2026 (23:59 AoE)
-- Early registration deadline: April 18 2026
+- ~~Notification of acceptance: April 15 2026 (23:59 AoE)~~ (already happened)
+- Early registration deadline: April 18 2026 **APPROACHING!**
 - Camera-ready submission: April 30 2026 (23:59 AoE)
+- Poster submission: May 5 2026 (23:59 AoE)
+- Slides submission: May 14 2026 (23:59 AoE)
 - Workshop date: ~~One day~~ Two days before FM 2026 (May 18-19 2026)
 
 ## Venue
