@@ -22,7 +22,7 @@ We are pleased to announce the following contributions accepted for AIPV 2026.
 - Cheng-Hui Weng. Inverting the Formalization Workflow: Prototyping an MPC Protocol in Rocq with an LLM Agent
 - [Mohammad Afzal](https://afzalmohd.github.io/), [S. Akshay](http://www.cse.iitb.ac.in/~akshayss), [Blaise Genest](https://perso.crans.org/genest/) and [Ashutosh Gupta](https://www.cse.iitb.ac.in/~akg/). Formal Reasoning About Confidence and Automated Verification of Neural Networks
 - [Sho Sonoda](https://sites.google.com/view/shosonoda/home). Why Agentic Theorem Prover Works: A Statistical Provability Theory of Mathematical Reasoning Models
-- Xinyuan Tu, [Thomas Hildebrandt](http://www.diku.dk/english/staff/?pure=en/persons/350259) and Thiago Rocha Silva. From BDD Scenarios to Formaly Verifiable Behavioural Models via Dynamic Condition Response Graphs
+- Xinyuan Tu, [Thomas Hildebrandt](http://www.diku.dk/english/staff/?pure=en/persons/350259) and Thiago Rocha Silva. From BDD Scenarios to Formally Verifiable Behavioural Models via Dynamic Condition Response Graphs
 - Balaji Rao, John Harrison, Soonho Kong, Juneyoung Lee and Carlo Lipizzi. s2n-bignum-bench: A practical benchmark for evaluating low-level code reasoning of LLMs
 - [Martin Berger](http://www.informatics.sussex.ac.uk/users/mfb21). Experience report: I've always been wrong about AI
 - Banri Yanahama and Akiyoshi Sannai. Lean Atlas: An Integrated Proof Environment for Scalable Human-AI Collaborative Formalization
