@@ -136,6 +136,8 @@ The administrative and financial operations of AIPV 2026 are supported by [ASTER
   </a>
 </div>
 
+AIPV was supported by the research programme of the Strategy AV21 AI: Artificial Intelligence for Science and Society.
+
 ## Sponsor (Partner)
 
 <div style="display: flex; align-items: center;">
