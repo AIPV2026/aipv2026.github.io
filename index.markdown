@@ -153,6 +153,20 @@ AIPV was supported by the research programme of the Strategy AV21 AI: Artificial
        style="max-width: 100%; height: auto;">
 </a>
 
+## Sponsor (Contributor)
+
+<div style="display: flex; align-items: center;">
+  <a href="https://axiomatic-ai.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/sponsor/axiomatic_ai_logo.png"
+      style="max-width: 100%; height: auto;"><!-- Adjust margin as needed -->
+  </a>
+</div>
+
+Axiomatic is building AI for science and engineering that can reason, not just generate.
+At the core of Axiomatic's platform is Axiomatic AI's Lemma, a system that combines large-scale machine learning with formal mathematical and physical reasoning to produce outputs that are verifiable, interpretable, and grounded in first principles. Rather than relying solely on statistical patterns, Axiomatic AI's Lemma enables engineers and researchers to work with AI systems that can model, analyze, and validate complex technical problems with rigor.
+Axiomatic's technology supports workflows across domains such as photonics, electronics, mechanics, and signal processing—helping teams accelerate design, extract insights from technical data, and ensure consistency with real-world constraints. By embedding verification directly into the AI process, Axiomatic reduces the gap between experimentation and reliable deployment.
+Axiomatic's mission is to increase the velocity of scientific discovery and engineering innovation by building AI systems that scientists and engineers can trust.
+
 ## Important Dates
 The following is the tentative timeline of AIPV
 - ~~Workshop paper/abstract submission: March 15 2026 (23:59 AoE)~~
