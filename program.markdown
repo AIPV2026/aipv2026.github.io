@@ -10,11 +10,14 @@ permalink: /program/
 **The programme is subject to change.**
 
 ## Contents
-{:toc}
+- [Day 1](#day1)
+  - [Session 1 (Verification)](#day1-session1)
 
 ## Day 1 (May 18)
+<a id="day1"></a>
 
 ### Session 1 (Verification) 09:00–10:30
+<a id="day1-session1"></a>
 
 | Time | Theme | Speaker | Title |
 |---|---|---|---|
