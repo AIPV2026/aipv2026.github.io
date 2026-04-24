@@ -94,10 +94,30 @@ permalink: /program/
 
 | Time | Theme | Speaker | Title |
 |---|---|---|---|
-| 11:00–11:10 | TBA | TBA | TBA |
-| 11:10–11:30 | Contributed |  |  |
-| 11:30–11:50 | Contributed |  |  |
-| 11:50–12:10 | Contributed |  |  |
-| 12:10–12:30 | Contributed |  |  |
+| 11:00–11:10 | Short Talks | Balaji Rao, John Harrison, Soonho Kong, Juneyoung Lee and Carlo Lipizzi | s2n-bignum-bench: A practical benchmark for evaluating low-level code reasoning of LLMs |
+| 11:10–11:30 | Contributed | Banri Yanahama and Akiyoshi Sannai | Lean Atlas: An Integrated Proof Environment for Scalable Human-AI Collaborative Formalization |
+| 11:30–11:50 | Contributed | Austin Letson, Leopoldo Sarra, Auguste Poiroux, Oliver Dressler, Paul Lezeau, Dhyan Aranha, Frederik Pu, Aaron Hill, Miguel Corredera Hidalgo, Julian Berman, George Tsoukalas and Lenny Taelman | SorryDB: Can AI Provers Complete Real-World Lean Theorems? |
+| 11:50–12:10 | Contributed | Vasily Ilin | Semi-Autonomous Formalization of the Vlasov-Maxwell-Landau Equilibrium |
+| 12:10–12:30 | Contributed | Sho Sonoda | Why Agentic Theorem Prover Works: A Statistical Provability Theory of Mathematical Reasoning Models |
+
+### Lunch 12:30–14:00 
+
+| Time | Theme |  | Note |
+|---|---|---|---|
+| 12:30–14:00 | Lunch Break | Poster | Poster |
+
+### Session 3 (Neueral Network) 14:00–15:30
+
+| Time | Theme | Speaker | Title |
+|---|---|---|---|
+| 14:00–14:40 | Keynote | TBA | TBA |
+| 14:40–15:00 | Contributed | Minghao Liu, Chia-Hsuan Lu and Marta Kwiatkowska |Exact Verification of Graph Neural Networks with Incremental Constraint Solving |
+| 15:00–15:30 | Contributed | Mohammad Afzal, S. Akshay, Blaise Genest and Ashutosh G | Formal Reasoning About Confidence and Automated Verification of Neural Networks |
+
+### Coffee Break and Poster 15:30–16:00
+
+| Time | Theme |  | Note |
+|---|---|---|---|
+| 15:30–16:00 | Coffee Break | Poster | Poster |
 
 <img id="randomImage" src="" alt="Random Image">
