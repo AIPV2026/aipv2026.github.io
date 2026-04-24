@@ -11,7 +11,7 @@ permalink: /program/
 
 ## Day 1 (May 18)
 
-### Session 1
+### Session 1 (Verification)
 
 | Time | Theme | Speaker | Title |
 |---|---|---|---|
@@ -26,11 +26,11 @@ permalink: /program/
 | 10:30–11:00 | B1 | Coffee Break | Poster | Poster |
 
 ### Session 2
-| Time | Session | Theme | Speaker | Title |
-|---|---|---|---|---|
-| 11:00–12:30 | S2 (Isabelle/Rocq) | Sponsor | Harmonic | TBA |
-| 11:00–12:30 | S2 (Isabelle/Rocq) | Contributed | Cheng-Hui Weng | Inverting the Formalization Workflow: Prototyping an MPC Protocol in Rocq with an LLM Agent |
-| 11:00–12:30 | S2 (Isabelle/Rocq) | Contributed | Yusuke Ito | Formalizing Actuarial Mathematics in Proof Assistants |
-| 11:00–12:30 | S2 (Isabelle/Rocq) | Contributed | Qiyuan Xu, Renxi Wang, Peixin Wang, Haonan Li and Conrad Watt | A Minimalist Proof Language for Neural Theorem Proving over Isabelle/HOL |
-| 11:00–12:30 | S2 (Isabelle/Rocq) | Contributed | Chengsong Tan, Jonathan Julian Huerta Y Munive, John Wickerson and Alastair Donaldson | Automated Sketching and Repairing of Large Mechanised Proofs |
+| Time | Theme | Speaker | Title |
+|---|---|---|---|
+| 11:00–12:30 | Sponsor | Harmonic | TBA |
+| 11:00–12:30 | Contributed | Cheng-Hui Weng | Inverting the Formalization Workflow: Prototyping an MPC Protocol in Rocq with an LLM Agent |
+| 11:00–12:30 | Contributed | Yusuke Ito | Formalizing Actuarial Mathematics in Proof Assistants |
+| 11:00–12:30 | Contributed | Qiyuan Xu, Renxi Wang, Peixin Wang, Haonan Li and Conrad Watt | A Minimalist Proof Language for Neural Theorem Proving over Isabelle/HOL |
+| 11:00–12:30 | Contributed | Chengsong Tan, Jonathan Julian Huerta Y Munive, John Wickerson and Alastair Donaldson | Automated Sketching and Repairing of Large Mechanised Proofs |
 <img id="randomImage" src="" alt="Random Image">
