@@ -36,9 +36,9 @@ permalink: /program/
 
 ### Coffee Break and Poster 10:30–11:00
 
-| Time | Theme |  | Note |
-|---|---|---|---|
-| 10:30–11:00 | Coffee Break | Poster | Poster |
+| Time | Theme | Note |
+|---|---|---|
+| 10:30–11:00 | Coffee Break | Poster |
 
 ### Session 2 (Isabelle & Rocq) 11:00–12:30
 <a id="day1-session2"></a>
@@ -53,9 +53,9 @@ permalink: /program/
 
 ### Lunch 12:30–14:00 
 
-| Time | Theme |  | Note |
-|---|---|---|---|
-| 12:30–14:00 | Lunch Break | Poster | Poster |
+| Time | Theme | Note |
+|---|---|---|
+| 12:30–14:00 | Lunch Break | Poster |
 
 ### Session 3 (Mathematics) 14:00–15:30
 <a id="day1-session3"></a>
@@ -68,9 +68,9 @@ permalink: /program/
 
 ### Coffee Break and Poster 15:30–16:00
 
-| Time | Theme |  | Note |
-|---|---|---|---|
-| 15:30–16:00 | Coffee Break | Poster | Poster |
+| Time | Theme | Note |
+|---|---|---|
+| 15:30–16:00 | Coffee Break | Poster |
 
 ### Session 4 (Application) 16:00-17:40
 <a id="day1-session4"></a>
@@ -86,10 +86,10 @@ permalink: /program/
 ### Reception (Application) 18:30-20:40
 <a id="day1-reception"></a>
 
-| Time | Theme |  | Note |
-|---|---|---|---|
-| 17:50–18:30 | Sightseeing |  |  |
-| 18:30–20:40 | Reception | Poster | Poster |
+| Time | Theme | Note |
+|---|---|---|
+| 17:50–18:30 | Sightseeing |  |
+| 18:30–20:40 | Reception | Poster |
 
 ## Day 2 (May 19)
 
@@ -105,9 +105,9 @@ permalink: /program/
 
 ### Coffee Break and Poster 10:30–11:00
 
-| Time | Theme |  | Note |
-|---|---|---|---|
-| 10:30–11:00 | Coffee Break | Poster | Poster |
+| Time | Theme | Note |
+|---|---|---|
+| 10:30–11:00 | Coffee Break | Poster |
 
 ### Session 2 (Lean) 11:00–12:30
 <a id="day2-session2"></a>
@@ -122,9 +122,9 @@ permalink: /program/
 
 ### Lunch 12:30–14:00 
 
-| Time | Theme |  | Note |
-|---|---|---|---|
-| 12:30–14:00 | Lunch Break | Poster | Poster |
+| Time | Theme | Note |
+|---|---|---|
+| 12:30–14:00 | Lunch Break | Poster |
 
 ### Session 3 (Neueral Network) 14:00–15:30
 <a id="day2-session3"></a>
@@ -139,9 +139,9 @@ permalink: /program/
 
 ### Coffee Break and Poster 15:30–16:00
 
-| Time | Theme |  | Note |
-|---|---|---|---|
-| 15:30–16:00 | Coffee Break | Poster | Poster |
+| Time | Theme | Note |
+|---|---|---|
+| 15:30–16:00 | Coffee Break | Poster |
 
 ### Session 4 (Application) 16:00-17:40
 <a id="day2-session4"></a>
