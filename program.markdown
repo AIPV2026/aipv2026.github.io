@@ -7,7 +7,7 @@ permalink: /program/
 
 # Program
 
-**The program is subject to change.**
+**Tentative program — subject to change.**
 
 ## Contents
 - [Day 1](#day1)
