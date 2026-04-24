@@ -18,7 +18,7 @@ permalink: /program/
 | 09:00–09:10 | Opening | AIPV organising team |  |
 | 09:10–09:50 | Keynote | Conrad Watt | TBA |
 | 09:50–10:10 | Contributed | Raik Hipler and Martin Leucker | Machine Learning for Stream-Based Diagnosis |
-| 10:10–10:30 | Contributed | Xinyuan Tu, Thomas Hildebrandt and Thiago Rocha Silva | From BDD Scenarios to Formaly Verifiable Behavioural Models via Dynamic Condition Response Graphs |
+| 10:10–10:30 | Contributed | Borja Requena, Austin Letson, Krystian Nowakowski, Izan Beltran Ferreiro and Leopoldo Sarra | A Minimal Agent for Automated Theorem Proving |
 
 ### Coffee Break and Poster 10:30–11:00
 
@@ -94,7 +94,7 @@ permalink: /program/
 
 | Time | Theme | Speaker | Title |
 |---|---|---|---|
-| 11:00–11:10 | Short Talks | Balaji Rao, John Harrison, Soonho Kong, Juneyoung Lee and Carlo Lipizzi | s2n-bignum-bench: A practical benchmark for evaluating low-level code reasoning of LLMs |
+| 11:00–11:10 | Short Talk | Balaji Rao, John Harrison, Soonho Kong, Juneyoung Lee and Carlo Lipizzi | s2n-bignum-bench: A practical benchmark for evaluating low-level code reasoning of LLMs |
 | 11:10–11:30 | Contributed | Banri Yanahama and Akiyoshi Sannai | Lean Atlas: An Integrated Proof Environment for Scalable Human-AI Collaborative Formalization |
 | 11:30–11:50 | Contributed | Austin Letson, Leopoldo Sarra, Auguste Poiroux, Oliver Dressler, Paul Lezeau, Dhyan Aranha, Frederik Pu, Aaron Hill, Miguel Corredera Hidalgo, Julian Berman, George Tsoukalas and Lenny Taelman | SorryDB: Can AI Provers Complete Real-World Lean Theorems? |
 | 11:50–12:10 | Contributed | Vasily Ilin | Semi-Autonomous Formalization of the Vlasov-Maxwell-Landau Equilibrium |
@@ -110,14 +110,25 @@ permalink: /program/
 
 | Time | Theme | Speaker | Title |
 |---|---|---|---|
-| 14:00–14:40 | Keynote | TBA | TBA |
-| 14:40–15:00 | Contributed | Minghao Liu, Chia-Hsuan Lu and Marta Kwiatkowska |Exact Verification of Graph Neural Networks with Incremental Constraint Solving |
-| 15:00–15:30 | Contributed | Mohammad Afzal, S. Akshay, Blaise Genest and Ashutosh G | Formal Reasoning About Confidence and Automated Verification of Neural Networks |
+| 14:00–14:30 | Keynote | TBA | TBA |
+| 14:30–14:50 | Contributed | Minghao Liu, Chia-Hsuan Lu and Marta Kwiatkowska |Exact Verification of Graph Neural Networks with Incremental Constraint Solving |
+| 14:50–15:10 | Contributed | Mohammad Afzal, S. Akshay, Blaise Genest and Ashutosh G | Formal Reasoning About Confidence and Automated Verification of Neural Networks |
+| 15:10–15:30 | Contributed | Xinyuan Tu, Thomas Hildebrandt and Thiago Rocha Silva | From BDD Scenarios to Formaly Verifiable Behavioural Models via Dynamic Condition Response Graphs |
 
 ### Coffee Break and Poster 15:30–16:00
 
 | Time | Theme |  | Note |
 |---|---|---|---|
 | 15:30–16:00 | Coffee Break | Poster | Poster |
+
+### Session 4 (Application) 16:00-17:40
+
+| Time | Theme | Speaker | Title |
+|---|---|---|---|
+| 16:00–16:20 | Contributed | Holly Hendry, Pedro Ribeiro and Frank Soboczenski | Large Language Models for Verification of Reactive Programs |
+| 16:20–16:40 | Contributed | Alberto Tagliaferro, Bruno Guindani, Livia Lestingi and Matteo Giovanni Rossi | Towards an Agentic LLM-based Approach to Requirement Formalization from Unstructured Specifications |
+| 16:40–17:00 | Contributed | Noeon Research | TBA |
+| 17:00–17:40 | Round Table | TBA | Panel Discussion |
+| 17:40–17:50 | Closing | AIPV organising team |  |
 
 <img id="randomImage" src="" alt="Random Image">
