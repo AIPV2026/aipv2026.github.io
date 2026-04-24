@@ -163,7 +163,7 @@ permalink: /program/
 |---|---|---|---|
 | 16:00–16:20 | Contributed | Holly Hendry, Pedro Ribeiro and Frank Soboczenski | Large Language Models for Verification of Reactive Programs |
 | 16:20–16:40 | Contributed | Alberto Tagliaferro, Bruno Guindani, Livia Lestingi and Matteo Giovanni Rossi | Towards an Agentic LLM-based Approach to Requirement Formalization from Unstructured Specifications |
-| 16:40–17:00 | Contributed | Noeon Research | TBA |
+| 16:40–17:00 | Sponsor | Noeon Research | TBA |
 | 17:00–17:40 | Round Table | TBA | Panel Discussion |
 | 17:40–17:50 | Closing | AIPV organising team |  |
 
