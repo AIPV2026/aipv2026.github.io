@@ -73,4 +73,31 @@ permalink: /program/
 | 17:50–18:30 | Sightseeing |  |  |
 | 18:30–20:40 | Reception | Poster | Poster |
 
+## Day 2 (May 19)
+
+### Session 1 (Theory) 09:00–10:30
+
+| Time | Theme | Speaker | Title |
+|---|---|---|---|
+| 09:00–09:10 | Opening | AIPV organising team |  |
+| 09:10–09:30 | Sponsor | Harmonic | TBA |
+| 09:30–10:10 | Keynote | Nobuko Yoshida | TBA |
+| 10:10–10:30 | Contributed | Grigory Neustroev, Mirco Giacobbe and Anna Lukina | Neural Continuous-Time Supermartingale Certificates |
+
+### Coffee Break and Poster 10:30–11:00
+
+| Time | Theme |  | Note |
+|---|---|---|---|
+| 10:30–11:00 | Coffee Break | Poster | Poster |
+
+### Session 2 (Lean) 11:00–12:30
+
+| Time | Theme | Speaker | Title |
+|---|---|---|---|
+| 11:00–11:10 | TBA | TBA | TBA |
+| 11:10–11:30 | Contributed |  |  |
+| 11:30–11:50 | Contributed |  |  |
+| 11:50–12:10 | Contributed |  |  |
+| 12:10–12:30 | Contributed |  |  |
+
 <img id="randomImage" src="" alt="Random Image">
