@@ -16,7 +16,7 @@ permalink: /program/
   - [Session 3 (Mathematics)](#day1-session3)
   - [Session 4 (Application)](#day1-session4)
 - [Day 2](#day2)
-  - [Session 1 (Theory)](#day1-session1)
+  - [Session 1 (Theory)](#day2-session1)
   - [Session 2 (Lean)](#day2-session2)
   - [Session 3 (Neural Network)](#day2-session3)
   - [Session 4 (Large Language Model)](#day2-session4)
