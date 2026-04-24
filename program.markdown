@@ -21,9 +21,9 @@ permalink: /program/
 | 09:00–10:30 | Contributed | Xinyuan Tu, Thomas Hildebrandt and Thiago Rocha Silva | From BDD Scenarios to Formaly Verifiable Behavioural Models via Dynamic Condition Response Graphs |
 
 ### Coffee Break and Poster
-| Time | Session | Theme | Speaker | Title |
-|---|---|---|---|---|
-| 10:30–11:00 | B1 | Coffee Break | Poster | Poster |
+| Time | Theme | Speaker | Title |
+|---|---|---|---|
+| 10:30–11:00 | Coffee Break | Poster | Poster |
 
 ### Session 2
 | Time | Theme | Speaker | Title |
