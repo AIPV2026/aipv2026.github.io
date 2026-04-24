@@ -98,7 +98,7 @@ permalink: /program/
 | 11:10–11:30 | Contributed | Banri Yanahama and Akiyoshi Sannai | Lean Atlas: An Integrated Proof Environment for Scalable Human-AI Collaborative Formalization |
 | 11:30–11:50 | Contributed | Austin Letson, Leopoldo Sarra, Auguste Poiroux, Oliver Dressler, Paul Lezeau, Dhyan Aranha, Frederik Pu, Aaron Hill, Miguel Corredera Hidalgo, Julian Berman, George Tsoukalas and Lenny Taelman | SorryDB: Can AI Provers Complete Real-World Lean Theorems? |
 | 11:50–12:10 | Contributed | Vasily Ilin | Semi-Autonomous Formalization of the Vlasov-Maxwell-Landau Equilibrium |
-| 12:10–12:30 | Contributed | Sho Sonoda | Why Agentic Theorem Prover Works: A Statistical Provability Theory of Mathematical Reasoning Models |
+| 12:10–12:30 | Contributed |  Xinyuan Tu, Thomas Hildebrandt and Thiago Rocha Silva | From BDD Scenarios to Formaly Verifiable Behavioural Models via Dynamic Condition Response Graphs |
 
 ### Lunch 12:30–14:00 
 
@@ -113,7 +113,8 @@ permalink: /program/
 | 14:00–14:30 | Keynote | TBA | TBA |
 | 14:30–14:50 | Contributed | Minghao Liu, Chia-Hsuan Lu and Marta Kwiatkowska |Exact Verification of Graph Neural Networks with Incremental Constraint Solving |
 | 14:50–15:10 | Contributed | Mohammad Afzal, S. Akshay, Blaise Genest and Ashutosh G | Formal Reasoning About Confidence and Automated Verification of Neural Networks |
-| 15:10–15:30 | Contributed | Xinyuan Tu, Thomas Hildebrandt and Thiago Rocha Silva | From BDD Scenarios to Formaly Verifiable Behavioural Models via Dynamic Condition Response Graphs |
+| 15:10–15:30 | Contributed | Sho Sonoda | Why Agentic Theorem Prover Works: A Statistical Provability Theory of Mathematical Reasoning Models |
+
 
 ### Coffee Break and Poster 15:30–16:00
 
