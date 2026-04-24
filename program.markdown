@@ -50,7 +50,7 @@ permalink: /program/
 | 14:40–15:00 | Contributed | Hyojae Lim | Toward Textbook-Scale Autoformalization with Large Language Models |
 | 15:00–15:30 | Contributed | Kaito Baba, Chaoran Liu, Shuhei Kurita and Akiyoshi Sannai | Prover Agent: An Agent-Based Framework for Formal Mathematical Proofs |
 
-### Coffee Break and Poster
+### Coffee Break and Poster 15:30–16:00
 
 | Time | Theme |  | Note |
 |---|---|---|---|
