@@ -9,13 +9,25 @@ permalink: /program/
 
 **The programme is subject to change.**
 
+## Day 1 (May 18)
+
+### Session 1
+
+| Time | Theme | Speaker | Title |
+|---|---|---|---|
+| 09:00–10:30 | Opening | AIPV organising team |  |
+| 09:00–10:30 | Keynote | Conrad Watt | TBA |
+| 09:00–10:30 | Contributed | Raik Hipler and Martin Leucker | Machine Learning for Stream-Based Diagnosis |
+| 09:00–10:30 | Contributed | Xinyuan Tu, Thomas Hildebrandt and Thiago Rocha Silva | From BDD Scenarios to Formaly Verifiable Behavioural Models via Dynamic Condition Response Graphs |
+
+### Coffee Break and Poster
 | Time | Session | Theme | Speaker | Title |
 |---|---|---|---|---|
-| 09:00–10:30 | S1 | Opening | AIPV organising team |  |
-| 09:00–10:30 | S1 (Verification) | Keynote | Conrad Watt | TBA |
-| 09:00–10:30 | S1 (Verification) | Contributed | Raik Hipler and Martin Leucker | Machine Learning for Stream-Based Diagnosis |
-| 09:00–10:30 | S1 (Verification) | Contributed | Xinyuan Tu, Thomas Hildebrandt and Thiago Rocha Silva | From BDD Scenarios to Formaly Verifiable Behavioural Models via Dynamic Condition Response Graphs |
 | 10:30–11:00 | B1 | Coffee Break | Poster | Poster |
+
+### Session 2
+| Time | Session | Theme | Speaker | Title |
+|---|---|---|---|---|
 | 11:00–12:30 | S2 (Isabelle/Rocq) | Sponsor | Harmonic | TBA |
 | 11:00–12:30 | S2 (Isabelle/Rocq) | Contributed | Cheng-Hui Weng | Inverting the Formalization Workflow: Prototyping an MPC Protocol in Rocq with an LLM Agent |
 | 11:00–12:30 | S2 (Isabelle/Rocq) | Contributed | Yusuke Ito | Formalizing Actuarial Mathematics in Proof Assistants |
