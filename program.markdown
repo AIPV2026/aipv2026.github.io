@@ -24,10 +24,10 @@ permalink: /program/
 ## Day 1 (May 18)
 <a id="day1"></a>
 
-### Session 1 09:00–10:30 (Topic: Verification, Chair: TBA) 
+### Session-1 09:00–10:30 (Theme: Verification, Chair: TBA) 
 <a id="day1-session1"></a>
 
-| Time | Theme | Speaker | Title |
+| Time | Type | Speaker | Title |
 |---|---|---|---|
 | 09:00–09:10 | Opening | AIPV organising team |  |
 | 09:10–09:50 | Keynote | Conrad Watt | TBA |
@@ -38,14 +38,14 @@ permalink: /program/
 
 ### Coffee Break and Poster 10:30–11:00
 
-| Time | Theme | Note |
+| Time | Type | Note |
 |---|---|---|
 | 10:30–11:00 | Coffee Break | Poster |
 
-### Session 2 11:00–12:30 (Topic: Isabelle & Rocq, Chair: TBA)
+### Session-2 11:00–12:30 (Theme: Isabelle & Rocq, Chair: TBA)
 <a id="day1-session2"></a>
 
-| Time | Theme | Speaker | Title |
+| Time | Type | Speaker | Title |
 |---|---|---|---|
 | 11:00–11:10 | TBA | TBA | TBA |
 | 11:10–11:30 | Contributed | Cheng-Hui Weng | Inverting the Formalization Workflow: Prototyping an MPC Protocol in Rocq with an LLM Agent |
@@ -57,14 +57,14 @@ permalink: /program/
 
 ### Lunch 12:30–14:00 
 
-| Time | Theme | Note |
+| Time | Type | Note |
 |---|---|---|
 | 12:30–14:00 | Lunch Break | Poster |
 
-### Session 3 14:00–15:30 (Topic: Mathematics, Chair: TBA) 
+### Session-3 14:00–15:30 (Theme: Mathematics, Chair: TBA) 
 <a id="day1-session3"></a>
 
-| Time | Theme | Speaker | Title |
+| Time | Type | Speaker | Title |
 |---|---|---|---|
 | 14:00–14:40 | Keynote | Christian Szegedy | TBA |
 | 14:40–15:00 | Contributed | Hyojae Lim | Toward Textbook-Scale Autoformalization with Large Language Models |
@@ -74,14 +74,14 @@ permalink: /program/
 
 ### Coffee Break and Poster 15:30–16:00
 
-| Time | Theme | Note |
+| Time | Type | Note |
 |---|---|---|
 | 15:30–16:00 | Coffee Break | Poster |
 
-### Session 4 16:00-17:40 (Topic: Application, Chair: TBA) 
+### Session 4 16:00-17:40 (Theme: Application, Chair: TBA) 
 <a id="day1-session4"></a>
 
-| Time | Theme | Speaker | Title |
+| Time | Type | Speaker | Title |
 |---|---|---|---|
 | 16:00–16:20 | Sponsor | Axiom Math | TBA |
 | 16:20–16:40 | Contributed | Alcino Cunha and Nuno Macedo | Validating Formal Specifications with LLM-generated Test Cases |
@@ -94,17 +94,17 @@ permalink: /program/
 ### Reception 18:30-20:40
 <a id="day1-reception"></a>
 
-| Time | Theme | Note |
+| Time | Type | Note |
 |---|---|---|
 | 17:50–18:30 | Sightseeing |  |
 | 18:30–20:40 | Reception | Poster |
 
 ## Day 2 (May 19)
 
-### Session 1 09:00–10:30 (Topic: Theory, Chiar: Martin Berger) 
+### Session-1 09:00–10:30 (Theme: Theory, Chair: Martin Berger) 
 <a id="day2-session1"></a>
 
-| Time | Theme | Speaker | Title |
+| Time | Type | Speaker | Title |
 |---|---|---|---|
 | 09:00–09:10 | Opening | AIPV organising team |  |
 | 09:10–09:30 | Sponsor | Harmonic | TBA |
@@ -115,14 +115,14 @@ permalink: /program/
 
 ### Coffee Break and Poster 10:30–11:00
 
-| Time | Theme | Note |
+| Time | Type | Note |
 |---|---|---|
 | 10:30–11:00 | Coffee Break | Poster |
 
-### Session 2 11:00–12:30 (Topic: Lean, Chair: TBA) 
+### Session-2 11:00–12:30 (Theme: Lean, Chair: TBA) 
 <a id="day2-session2"></a>
 
-| Time | Theme | Speaker | Title |
+| Time | Type | Speaker | Title |
 |---|---|---|---|
 | 11:00–11:10 | Short Talk | Balaji Rao, John Harrison, Soonho Kong, Juneyoung Lee and Carlo Lipizzi | s2n-bignum-bench: A practical benchmark for evaluating low-level code reasoning of LLMs |
 | 11:10–11:30 | Contributed | Banri Yanahama and Akiyoshi Sannai | Lean Atlas: An Integrated Proof Environment for Scalable Human-AI Collaborative Formalization |
@@ -134,14 +134,14 @@ permalink: /program/
 
 ### Lunch 12:30–14:00 
 
-| Time | Theme | Note |
+| Time | Type | Note |
 |---|---|---|
 | 12:30–14:00 | Lunch Break | Poster |
 
-### Session 3 14:00–15:30 (Topic: Neueral Network, Chiar: TBA) 
+### Session-3 14:00–15:30 (Theme: Neueral Network, Chiar: TBA) 
 <a id="day2-session3"></a>
 
-| Time | Theme | Speaker | Title |
+| Time | Type | Speaker | Title |
 |---|---|---|---|
 | 14:00–14:30 | Keynote | TBA | TBA |
 | 14:30–14:50 | Contributed | Minghao Liu, Chia-Hsuan Lu and Marta Kwiatkowska |Exact Verification of Graph Neural Networks with Incremental Constraint Solving |
@@ -152,14 +152,14 @@ permalink: /program/
 
 ### Coffee Break and Poster 15:30–16:00
 
-| Time | Theme | Note |
+| Time | Type | Note |
 |---|---|---|
 | 15:30–16:00 | Coffee Break | Poster |
 
-### Session 4 16:00-17:40 (Topic: Application, Chair: TBA) 
+### Session-4 16:00-17:40 (Theme: Application, Chair: TBA) 
 <a id="day2-session4"></a>
 
-| Time | Theme | Speaker | Title |
+| Time | Type | Speaker | Title |
 |---|---|---|---|
 | 16:00–16:20 | Contributed | Holly Hendry, Pedro Ribeiro and Frank Soboczenski | Large Language Models for Verification of Reactive Programs |
 | 16:20–16:40 | Contributed | Alberto Tagliaferro, Bruno Guindani, Livia Lestingi and Matteo Giovanni Rossi | Towards an Agentic LLM-based Approach to Requirement Formalization from Unstructured Specifications |
