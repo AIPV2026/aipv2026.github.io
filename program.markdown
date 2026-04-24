@@ -24,7 +24,7 @@ permalink: /program/
 ## Day 1 (May 18)
 <a id="day1"></a>
 
-### Session 1 (Verification) 09:00–10:30
+### Session 1 09:00–10:30 (Topic: Verification, Chair: TBA) 
 <a id="day1-session1"></a>
 
 | Time | Theme | Speaker | Title |
@@ -42,7 +42,7 @@ permalink: /program/
 |---|---|---|
 | 10:30–11:00 | Coffee Break | Poster |
 
-### Session 2 (Isabelle & Rocq) 11:00–12:30
+### Session 2 11:00–12:30 (Topic: Isabelle & Rocq, Chair: TBA)
 <a id="day1-session2"></a>
 
 | Time | Theme | Speaker | Title |
@@ -61,7 +61,7 @@ permalink: /program/
 |---|---|---|
 | 12:30–14:00 | Lunch Break | Poster |
 
-### Session 3 (Mathematics) 14:00–15:30
+### Session 3 14:00–15:30 (Topic: Mathematics, Chair: TBA) 
 <a id="day1-session3"></a>
 
 | Time | Theme | Speaker | Title |
@@ -78,7 +78,7 @@ permalink: /program/
 |---|---|---|
 | 15:30–16:00 | Coffee Break | Poster |
 
-### Session 4 (Application) 16:00-17:40
+### Session 4 16:00-17:40 (Topic: Application, Chair: TBA) 
 <a id="day1-session4"></a>
 
 | Time | Theme | Speaker | Title |
@@ -91,7 +91,7 @@ permalink: /program/
 
 [↑ Back to top](#program)
 
-### Reception (Application) 18:30-20:40
+### Reception 18:30-20:40
 <a id="day1-reception"></a>
 
 | Time | Theme | Note |
@@ -101,7 +101,7 @@ permalink: /program/
 
 ## Day 2 (May 19)
 
-### Session 1 (Theory) 09:00–10:30
+### Session 1 09:00–10:30 (Topic: Theory, Chiar: Martin Berger) 
 <a id="day2-session1"></a>
 
 | Time | Theme | Speaker | Title |
@@ -119,7 +119,7 @@ permalink: /program/
 |---|---|---|
 | 10:30–11:00 | Coffee Break | Poster |
 
-### Session 2 (Lean) 11:00–12:30
+### Session 2 11:00–12:30 (Topic: Lean, Chair: TBA) 
 <a id="day2-session2"></a>
 
 | Time | Theme | Speaker | Title |
@@ -138,7 +138,7 @@ permalink: /program/
 |---|---|---|
 | 12:30–14:00 | Lunch Break | Poster |
 
-### Session 3 (Neueral Network) 14:00–15:30
+### Session 3 14:00–15:30 (Topic: Neueral Network, Chiar: TBA) 
 <a id="day2-session3"></a>
 
 | Time | Theme | Speaker | Title |
@@ -156,7 +156,7 @@ permalink: /program/
 |---|---|---|
 | 15:30–16:00 | Coffee Break | Poster |
 
-### Session 4 (Application) 16:00-17:40
+### Session 4 16:00-17:40 (Topic: Application, Chair: TBA) 
 <a id="day2-session4"></a>
 
 | Time | Theme | Speaker | Title |
