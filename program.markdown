@@ -12,6 +12,14 @@ permalink: /program/
 ## Contents
 - [Day 1](#day1)
   - [Session 1 (Verification)](#day1-session1)
+  - [Session 2 (Isabelle/Rocq)](#day1-session2)
+  - [Session 3 (Mathematics)](#day1-session3)
+  - [Session 4 (Application)](#day1-session4)
+- [Day 2](#day2)
+  - [Session 1 (Theory)](#day1-session1)
+  - [Session 2 (Lean)](#day2-session2)
+  - [Session 3 (Neural Network)](#day2-session3)
+  - [Session 4 (Large Language Model)](#day2-session4)
 
 ## Day 1 (May 18)
 <a id="day1"></a>
@@ -33,6 +41,7 @@ permalink: /program/
 | 10:30–11:00 | Coffee Break | Poster | Poster |
 
 ### Session 2 (Isabelle & Rocq) 11:00–12:30
+<a id="day1-session2"></a>
 
 | Time | Theme | Speaker | Title |
 |---|---|---|---|
@@ -49,6 +58,7 @@ permalink: /program/
 | 12:30–14:00 | Lunch Break | Poster | Poster |
 
 ### Session 3 (Mathematics) 14:00–15:30
+<a id="day1-session3"></a>
 
 | Time | Theme | Speaker | Title |
 |---|---|---|---|
@@ -63,6 +73,7 @@ permalink: /program/
 | 15:30–16:00 | Coffee Break | Poster | Poster |
 
 ### Session 4 (Application) 16:00-17:40
+<a id="day1-session4"></a>
 
 | Time | Theme | Speaker | Title |
 |---|---|---|---|
@@ -73,6 +84,7 @@ permalink: /program/
 | 17:40–17:50 | Closing | AIPV organising team |  |
 
 ### Reception (Application) 18:30-20:40
+<a id="day1-reception"></a>
 
 | Time | Theme |  | Note |
 |---|---|---|---|
@@ -82,6 +94,7 @@ permalink: /program/
 ## Day 2 (May 19)
 
 ### Session 1 (Theory) 09:00–10:30
+<a id="day2-session1"></a>
 
 | Time | Theme | Speaker | Title |
 |---|---|---|---|
@@ -97,6 +110,7 @@ permalink: /program/
 | 10:30–11:00 | Coffee Break | Poster | Poster |
 
 ### Session 2 (Lean) 11:00–12:30
+<a id="day2-session2"></a>
 
 | Time | Theme | Speaker | Title |
 |---|---|---|---|
@@ -113,6 +127,7 @@ permalink: /program/
 | 12:30–14:00 | Lunch Break | Poster | Poster |
 
 ### Session 3 (Neueral Network) 14:00–15:30
+<a id="day2-session3"></a>
 
 | Time | Theme | Speaker | Title |
 |---|---|---|---|
@@ -129,6 +144,7 @@ permalink: /program/
 | 15:30–16:00 | Coffee Break | Poster | Poster |
 
 ### Session 4 (Application) 16:00-17:40
+<a id="day2-session4"></a>
 
 | Time | Theme | Speaker | Title |
 |---|---|---|---|
