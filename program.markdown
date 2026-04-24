@@ -20,13 +20,13 @@ permalink: /program/
 | 09:50–10:10 | Contributed | Raik Hipler and Martin Leucker | Machine Learning for Stream-Based Diagnosis |
 | 10:10–10:30 | Contributed | Xinyuan Tu, Thomas Hildebrandt and Thiago Rocha Silva | From BDD Scenarios to Formaly Verifiable Behavioural Models via Dynamic Condition Response Graphs |
 
-### Coffee Break and Poster
+### Coffee Break and Poster 10:30–11:00
 
-| Time | Theme | Speaker | Title |
+| Time | Theme |  | Note |
 |---|---|---|---|
 | 10:30–11:00 | Coffee Break | Poster | Poster |
 
-### Session 2 11:00–12:30
+### Session 2 (Isabelle & Rocq) 11:00–12:30
 
 | Time | Theme | Speaker | Title |
 |---|---|---|---|
@@ -36,13 +36,13 @@ permalink: /program/
 | 11:50–12:10 | Contributed | Qiyuan Xu, Renxi Wang, Peixin Wang, Haonan Li and Conrad Watt | A Minimalist Proof Language for Neural Theorem Proving over Isabelle/HOL |
 | 12:10–12:30 | Contributed | Chengsong Tan, Jonathan Julian Huerta Y Munive, John Wickerson and Alastair Donaldson | Automated Sketching and Repairing of Large Mechanised Proofs |
 
-### Lunch
+### Lunch 12:30–14:00 
 
-| Time | Theme | Speaker | Title |
+| Time | Theme |  | Note |
 |---|---|---|---|
 | 12:30–14:00 | Lunch Break | Poster | Poster |
 
-### Session 3 (Mathematics)
+### Session 3 (Mathematics) 14:00–15:30
 
 | Time | Theme | Speaker | Title |
 |---|---|---|---|
@@ -52,18 +52,25 @@ permalink: /program/
 
 ### Coffee Break and Poster
 
-| Time | Theme | Speaker | Title |
+| Time | Theme |  | Note |
 |---|---|---|---|
 | 15:30–16:00 | Coffee Break | Poster | Poster |
 
-### Session 4 (Application)
+### Session 4 (Application) 16:00-17:40
 
 | Time | Theme | Speaker | Title |
 |---|---|---|---|
 | 16:00–16:20 | Sponsor | Axiom Math | TBA |
 | 16:20–16:40 | Contributed | Alcino Cunha and Nuno Macedo | Validating Formal Specifications with LLM-generated Test Cases |
 | 16:40–17:00 | Contributed | Martin Berger | Experience report: I've always been wrong about AI |
+| 17:00–17:40 | Round Table | TBA | Panel Discussion |
+| 17:40–17:50 | Closing | AIPV organising team |  |
 
+### Reception (Application) 18:30-20:40
 
+| Time | Theme |  | Note |
+|---|---|---|---|
+| 17:50–18:30 | Sightseeing |  |  |
+| 18:30–20:40 | Reception | Poster | Poster |
 
 <img id="randomImage" src="" alt="Random Image">
