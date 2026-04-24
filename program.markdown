@@ -156,7 +156,7 @@ permalink: /program/
 |---|---|---|
 | 15:30–16:00 | Coffee Break | Poster |
 
-### Session-4 16:00-17:40 (Theme: Application, Chair: TBA) 
+### Session-4 16:00-17:40 (Theme: LLM, Chair: TBA) 
 <a id="day2-session4"></a>
 
 | Time | Type | Speaker | Title |
