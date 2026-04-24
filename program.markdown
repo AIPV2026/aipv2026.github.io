@@ -21,37 +21,49 @@ permalink: /program/
 | 10:10–10:30 | Contributed | Xinyuan Tu, Thomas Hildebrandt and Thiago Rocha Silva | From BDD Scenarios to Formaly Verifiable Behavioural Models via Dynamic Condition Response Graphs |
 
 ### Coffee Break and Poster
+
 | Time | Theme | Speaker | Title |
 |---|---|---|---|
 | 10:30–11:00 | Coffee Break | Poster | Poster |
 
 ### Session 2 11:00–12:30
+
 | Time | Theme | Speaker | Title |
 |---|---|---|---|
-| 11:00–12:30 | Contributed | Cheng-Hui Weng | Inverting the Formalization Workflow: Prototyping an MPC Protocol in Rocq with an LLM Agent |
-| 11:00–12:30 | Contributed | Yusuke Ito | Formalizing Actuarial Mathematics in Proof Assistants |
-| 11:00–12:30 | Contributed | Qiyuan Xu, Renxi Wang, Peixin Wang, Haonan Li and Conrad Watt | A Minimalist Proof Language for Neural Theorem Proving over Isabelle/HOL |
-| 11:00–12:30 | Contributed | Chengsong Tan, Jonathan Julian Huerta Y Munive, John Wickerson and Alastair Donaldson | Automated Sketching and Repairing of Large Mechanised Proofs |
+| 11:00–11:10 | TBA | TBA | TBA |
+| 11:10–11:30 | Contributed | Cheng-Hui Weng | Inverting the Formalization Workflow: Prototyping an MPC Protocol in Rocq with an LLM Agent |
+| 11:30–11:50 | Contributed | Yusuke Ito | Formalizing Actuarial Mathematics in Proof Assistants |
+| 11:50–12:10 | Contributed | Qiyuan Xu, Renxi Wang, Peixin Wang, Haonan Li and Conrad Watt | A Minimalist Proof Language for Neural Theorem Proving over Isabelle/HOL |
+| 12:10–12:30 | Contributed | Chengsong Tan, Jonathan Julian Huerta Y Munive, John Wickerson and Alastair Donaldson | Automated Sketching and Repairing of Large Mechanised Proofs |
 
 ### Lunch
+
 | Time | Theme | Speaker | Title |
 |---|---|---|---|
 | 12:30–14:00 | Lunch Break | Poster | Poster |
 
 ### Session 3 (Mathematics)
+
 | Time | Theme | Speaker | Title |
-| 14:00–15:30 | Keynote | Hyojae Lim | Toward Textbook-Scale Autoformalization with Large Language Models |
-| 14:00–15:30 | Contributed | Kaito Baba, Chaoran Liu, Shuhei Kurita and Akiyoshi Sannai | Prover Agent: An Agent-Based Framework for Formal Mathematical Proofs |
+|---|---|---|---|
+| 14:00–14:40 | Keynote | Christian Szegedy | TBA |
+| 14:40–15:00 | Contributed | Hyojae Lim | Toward Textbook-Scale Autoformalization with Large Language Models |
+| 15:00–15:30 | Contributed | Kaito Baba, Chaoran Liu, Shuhei Kurita and Akiyoshi Sannai | Prover Agent: An Agent-Based Framework for Formal Mathematical Proofs |
 
 ### Coffee Break and Poster
+
 | Time | Theme | Speaker | Title |
 |---|---|---|---|
 | 15:30–16:00 | Coffee Break | Poster | Poster |
 
 ### Session 4 (Application)
+
 | Time | Theme | Speaker | Title |
-| 14:00–15:30 | Sponsor | Axiom Math | TBA |
-| 14:00–15:30 | Contributed | Alcino Cunha and Nuno Macedo | Validating Formal Specifications with LLM-generated Test Cases |
+|---|---|---|---|
+| 16:00–16:20 | Sponsor | Axiom Math | TBA |
+| 16:20–16:40 | Contributed | Alcino Cunha and Nuno Macedo | Validating Formal Specifications with LLM-generated Test Cases |
+| 16:40–17:00 | Contributed | Martin Berger | Experience report: I've always been wrong about AI |
+
 
 
 <img id="randomImage" src="" alt="Random Image">
