@@ -24,34 +24,34 @@ permalink: /program/
 ## Day 1 (May 18)
 <a id="day1"></a>
 
-### Session-1 09:00–10:30 (Theme: Verification, Chair: TBA) 
+### Session-1 09:15–10:45 (Theme: Verification, Chair: TBA) 
 <a id="day1-session1"></a>
 
 | Time | Type | Speaker | Title |
 |---|---|---|---|
-| 09:00–09:10 | Opening | AIPV organising team |  |
-| 09:10–09:50 | Keynote | Conrad Watt | TBA |
-| 09:50–10:10 | Contributed | Raik Hipler and Martin Leucker | Machine Learning for Stream-Based Diagnosis |
-| 10:10–10:30 | Contributed | Borja Requena, Austin Letson, Krystian Nowakowski, Izan Beltran Ferreiro and Leopoldo Sarra | A Minimal Agent for Automated Theorem Proving |
+| 09:15–09:25 | Opening | AIPV organising team |  |
+| 09:25–10:05 | Keynote | Conrad Watt | TBA |
+| 10:05–10:25 | Contributed | Raik Hipler and Martin Leucker | Machine Learning for Stream-Based Diagnosis |
+| 10:25–10:45 | Contributed | Borja Requena, Austin Letson, Krystian Nowakowski, Izan Beltran Ferreiro and Leopoldo Sarra | A Minimal Agent for Automated Theorem Proving |
 
 [↑ Back to top](#program)
 
-### Coffee Break and Poster 10:30–11:00
+### Coffee Break and Poster 10:45–11:15
 
 | Time | Type | Note |
 |---|---|---|
-| 10:30–11:00 | Coffee Break | Poster |
+| 10:45–11:15 | Coffee Break | Poster |
 
-### Session-2 11:00–12:30 (Theme: Isabelle & Rocq, Chair: TBA)
+### Session-2 11:15–12:45 (Theme: Isabelle & Rocq, Chair: TBA)
 <a id="day1-session2"></a>
 
 | Time | Type | Speaker | Title |
 |---|---|---|---|
-| 11:00–11:10 | TBA | TBA | TBA |
-| 11:10–11:30 | Contributed | Cheng-Hui Weng | Inverting the Formalization Workflow: Prototyping an MPC Protocol in Rocq with an LLM Agent |
-| 11:30–11:50 | Contributed | Yusuke Ito | Formalizing Actuarial Mathematics in Proof Assistants |
-| 11:50–12:10 | Contributed | Qiyuan Xu, Renxi Wang, Peixin Wang, Haonan Li and Conrad Watt | A Minimalist Proof Language for Neural Theorem Proving over Isabelle/HOL |
-| 12:10–12:30 | Contributed | Chengsong Tan, Jonathan Julian Huerta Y Munive, John Wickerson and Alastair Donaldson | Automated Sketching and Repairing of Large Mechanised Proofs |
+| 11:15–11:25 | TBA | TBA | TBA |
+| 11:25–11:45 | Contributed | Cheng-Hui Weng | Inverting the Formalization Workflow: Prototyping an MPC Protocol in Rocq with an LLM Agent |
+| 11:45–12:05 | Contributed | Yusuke Ito | Formalizing Actuarial Mathematics in Proof Assistants |
+| 12:05–12:25 | Contributed | Qiyuan Xu, Renxi Wang, Peixin Wang, Haonan Li and Conrad Watt | A Minimalist Proof Language for Neural Theorem Proving over Isabelle/HOL |
+| 12:25–12:45 | Contributed | Chengsong Tan, Jonathan Julian Huerta Y Munive, John Wickerson and Alastair Donaldson | Automated Sketching and Repairing of Large Mechanised Proofs |
 
 [↑ Back to top](#program)
 
