@@ -55,11 +55,11 @@ permalink: /program/
 
 [↑ Back to top](#program)
 
-### Lunch 12:30–14:00 
+### Lunch 12:45–14:00 
 
 | Time | Type | Note |
 |---|---|---|
-| 12:30–14:00 | Lunch Break | Poster |
+| 12:45–14:00 | Lunch Break | Poster |
 
 ### Session-3 14:00–15:30 (Theme: Mathematics, Chair: TBA) 
 <a id="day1-session3"></a>
