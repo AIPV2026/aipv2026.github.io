@@ -162,7 +162,7 @@ AIPV was supported by the research programme of the Strategy AV21 AI: Artificial
 
 <a href="{{ '/assets/images/sponsor/noeon_postcard.png' | relative_url }}" download="noeon_postcard.png">
   <img src="{{ '/assets/images/sponsor/noeon_postcard.png' | relative_url }}" 
-       alt="Harmonic Postcard" 
+       alt="Noeon Research Postcard" 
        style="max-width: 100%; height: auto;">
 </a>
 
