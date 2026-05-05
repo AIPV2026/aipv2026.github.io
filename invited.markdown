@@ -18,7 +18,7 @@ Conrad Watt is an Assistant Professor at Nanyang Technological University, Singa
 
 ## [Nobuko Yoshida](https://www.cs.ox.ac.uk/people/nobuko.yoshida/) at [The University of Oxford](https://www.ox.ac.uk/)
 
-<a href="https://conrad-watt.github.io" target="_blank">
+<a href="https://www.cs.ox.ac.uk/people/nobuko.yoshida/" target="_blank">
 <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/nobuko_yoshida.png" style="height:170px; float:left; margin-right:15px;">
 </a>
 
