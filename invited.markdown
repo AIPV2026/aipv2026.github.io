@@ -30,6 +30,22 @@ Her work combines semantic theory with system design, supporting the development
 
 She is a recipient of Horizon TaRDIS project which develops programming language tools for distributed intelligent swarms, decentralised AI agents and the next generation of IoT systems, and ARIA funding for a project on safe-guarded AI, which investigates mathematically grounded methods for reliability and accountability in advanced AI systems. Her research connects type theory, concurrency, verification, and the design of trustworthy software systems.
 
+### Title: Resilient Distributed Intelligent Swarms and Safeguarded AI: Programming Models and Runtime Guarantees
+
+### Abstract:
+
+This talk presents a framework for resilient distributed intelligent swarms built on safeguarded AI principles, focusing on the development of decentralised algorithms and protocols to support distributed swarm programming models at runtime. The approach targets large-scale, adaptive multi-agent systems operating under dynamic, uncertain, and adversarial conditions, where robustness, safety, and coordination are critical.
+
+At the core of the framework is the use of multiparty session types (MPST) to formally specify and enforce correct communication patterns among distributed agents. MPST provide a rigorous foundation for ensuring protocol fidelity, deadlock-freedom, and liveness across heterogeneous swarm components. These guarantees enable type-safe, verifiable orchestration of decentralised interactions without reliance on centralised control.
+
+The work advances decentralised algorithms and communication protocols that support adaptive coordination, fault tolerance, and self-healing behaviours. These include mechanisms for dynamic consensus under partial failure, and efficient message passing in resource-constrained environments. 
+
+Safeguarded AI is embedded through formal verification, runtime assurance, and explainability mechanisms, addressing challenges such as adversarial interference, data integrity, and trust. The integration of distributed learning approaches—such as cooperative and federated learning—allows agents to evolve collectively while maintaining privacy and robustness.
+
+### Keywords: 
+
+multiparty session types (MPST), decentralised systems, distributed swarm programming, runtime verification, distributed algorithms, communication protocols, fault tolerance, self-healing systems, safeguarded AI, formal methods, cyber-physical systems, resilient swarms.
+
 ## [Christian Szegedy](https://www.linkedin.com/in/christian-szegedy-bb284816)
 
 ### Biography
