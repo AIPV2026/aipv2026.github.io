@@ -14,9 +14,10 @@ Collocated with [FM 2026](https://conf.researchr.org/home/fm-2026) | May 18–19
 3. [Local Organising Team](#local-organising-team)
 4. [Administrative Support](#administrative-support)
 5. [Sponsor (Partner)](#sponsor-partner)
-6. [Dates](#important-dates)
-7. [Venue](#venue)
-8. [Contact](#contact)
+6. [Sponsor (Contributor)](#sponsor-contributor)
+7. [Dates](#important-dates)
+8. [Venue](#venue)
+9. [Contact](#contact)
 
 ---
 
@@ -185,8 +186,8 @@ The following is the tentative timeline of AIPV
 - ~~Workshop paper/abstract submission: March 15 2026 (23:59 AoE)~~
 - ~~Notification of acceptance: April 15 2026 (23:59 AoE)~~ (already happened)
 - ~~Early registration deadline: April 18 2026~~ 
-- Camera-ready submission: April 30 2026 (23:59 AoE)**APPROACHING!**
-- External link (optional): April 30 2026 (23:59 AoE)**APPROACHING!**
+- ~~Camera-ready submission: April 30 2026 (23:59 AoE)~~
+- ~~External link (optional): April 30 2026 (23:59 AoE)~~
 - Poster submission: May 5 2026 (23:59 AoE)**APPROACHING!**
 - Slides submission: May 14 2026 (23:59 AoE)
 - [Late registration](https://conf.researchr.org/attending/fm-2026/registration) closes: May 14 (AoE) 
