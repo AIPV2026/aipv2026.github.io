@@ -54,4 +54,6 @@ Christian Szegedy is a computer scientist known for his contributions to deep le
 
 After his work at Google Research, he co-founded xAI, served as Chief Scientist at Morph Labs, and co-founded Math Inc. His career spans foundational research in machine learning, large-scale applied systems, and early-stage AI ventures.
 
+## [Cezary Kaliszyk](https://ckaliszyk.github.io)
+
 <img id="randomImage" src="" alt="Random Image">
