@@ -109,7 +109,7 @@ permalink: /program/
 | 09:00 | Opening | AIPV organising team |  |
 | 09:10 | Keynote | Nobuko Yoshida | TBA |
 | 09:50 | Contributed | Grigory Neustroev, Mirco Giacobbe and Anna Lukina | Neural Continuous-Time Supermartingale Certificates |
-| 10:10 | Sponsor | Noeon Research | TBA |
+| 10:10 | Sponsor | Hendrik Skubch (Noeon Research) | Towards Trustable Machine Reasoning — A case study using variant Sudoku |
 
 [↑ Back to top](#program)
 
