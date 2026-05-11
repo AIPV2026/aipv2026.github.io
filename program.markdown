@@ -119,7 +119,7 @@ permalink: /program/
 |---|---|---|
 | 10:30 | Coffee Break | Poster |
 
-### Session-2 11:00–12:30 (Theme: Lean, Chair: TBA)
+### Session-2 11:00–12:30 (Theme: Lean, Chair: Kensho Tsurusaki)
 <a id="day2-session2"></a>
 
 | Time | Type | Speaker | Title |
