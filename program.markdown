@@ -40,7 +40,7 @@ permalink: /program/
 
 | Time | Type | Note |
 |---|---|---|
-| 10:30 | Coffee Break | Poster |
+| 10:40 | Coffee Break | Poster |
 
 ### Session-2 11:00–12:40 (Theme: Isabelle & Rocq, Chair: Jonathan Julián Huerta y Munive)
 <a id="day1-session2"></a>
