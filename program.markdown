@@ -127,7 +127,7 @@ permalink: /program/
 | 11:00 | Contributed | Vasily Ilin | Semi-Autonomous Formalization of the Vlasov-Maxwell-Landau Equilibrium |
 | 11:20 | Contributed | Banri Yanahama and Akiyoshi Sannai | Lean Atlas: An Integrated Proof Environment for Scalable Human-AI Collaborative Formalization |
 | 11:40 | Contributed | Austin Letson, Leopoldo Sarra, Auguste Poiroux, Oliver Dressler, Paul Lezeau, Dhyan Aranha, Frederick Pu, Aaron Hill, Miguel Corredera Hidalgo, Julian Berman, George Tsoukalas and Lenny Taelman | SorryDB: Can AI Provers Complete Real-World Lean Theorems? |
-| 12:00 | Sponsored |  AxiomMath.ai | TBD |
+| 12:00 | Sponsored |  Jimmy Shin (AxiomMath.ai) | AXLE: Free, Public Lean 4 Tooling for AI-Driven Mathematics |
 
 [↑ Back to top](#program)
 
