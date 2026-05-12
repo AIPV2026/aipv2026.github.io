@@ -83,7 +83,7 @@ permalink: /program/
 
 | Time | Type | Speaker | Title |
 |---|---|---|---|
-| 16:00 | Sponsor | Axiom Math | TBA |
+| 16:00 | Sponsor | Hendrik Skubch (Noeon Research) | Towards Trustable Machine Reasoning — A case study using variant Sudoku |
 | 16:20 | Contributed | Alcino Cunha and Nuno Macedo | Validating Formal Specifications with LLM-generated Test Cases |
 | 16:40 | Contributed | Martin Berger | Experience report: I've always been wrong about AI |
 | 17:00 | Workshop | Everyone | TBA |
@@ -109,7 +109,7 @@ permalink: /program/
 | 09:00 | Opening | AIPV organising team |  |
 | 09:10 | Keynote | Nobuko Yoshida | TBA |
 | 09:50 | Contributed | Grigory Neustroev, Mirco Giacobbe and Anna Lukina | Neural Continuous-Time Supermartingale Certificates |
-| 10:10 | Sponsor | Hendrik Skubch (Noeon Research) | Towards Trustable Machine Reasoning — A case study using variant Sudoku |
+| 10:10 | Contributed | Xinyuan Tu, Thomas Hildebrandt and Thiago Rocha Silva | From BDD Scenarios to Formally Verifiable Behavioural Models via Dynamic Condition Response Graphs |
 
 [↑ Back to top](#program)
 
@@ -127,7 +127,7 @@ permalink: /program/
 | 11:00 | Contributed | Vasily Ilin | Semi-Autonomous Formalization of the Vlasov-Maxwell-Landau Equilibrium |
 | 11:20 | Contributed | Banri Yanahama and Akiyoshi Sannai | Lean Atlas: An Integrated Proof Environment for Scalable Human-AI Collaborative Formalization |
 | 11:40 | Contributed | Austin Letson, Leopoldo Sarra, Auguste Poiroux, Oliver Dressler, Paul Lezeau, Dhyan Aranha, Frederick Pu, Aaron Hill, Miguel Corredera Hidalgo, Julian Berman, George Tsoukalas and Lenny Taelman | SorryDB: Can AI Provers Complete Real-World Lean Theorems? |
-| 12:00 | Contributed |  Xinyuan Tu, Thomas Hildebrandt and Thiago Rocha Silva | From BDD Scenarios to Formally Verifiable Behavioural Models via Dynamic Condition Response Graphs |
+| 12:00 | Sponsored |  AxiomMath.ai | TBD |
 
 [↑ Back to top](#program)
 
