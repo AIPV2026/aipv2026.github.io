@@ -29,10 +29,10 @@ permalink: /program/
 
 | Time | Type | Speaker | Title |
 |---|---|---|---|
-| 09:00 | Opening | AIPV organising team |  |
-| 09:10 | Keynote | Conrad Watt | TBA |
-| 09:50 | Contributed | Raik Hipler and Martin Leucker | Machine Learning for Stream-Based Diagnosis |
-| 10:10 | Contributed | Borja Requena, Austin Letson, Krystian Nowakowski, Izan Beltran Ferreiro and Leopoldo Sarra | A Minimal Agent for Automated Theorem Proving |
+| 09:15 | Opening | AIPV organising team |  |
+| 09:20 | Keynote | Conrad Watt | TBA |
+| 10:00 | Contributed | Raik Hipler and Martin Leucker | Machine Learning for Stream-Based Diagnosis |
+| 10:20 | Contributed | Borja Requena, Austin Letson, Krystian Nowakowski, Izan Beltran Ferreiro and Leopoldo Sarra | A Minimal Agent for Automated Theorem Proving |
 
 [↑ Back to top](#program)
 
@@ -106,10 +106,10 @@ permalink: /program/
 
 | Time | Type | Speaker | Title |
 |---|---|---|---|
-| 09:00 | Opening | AIPV organising team |  |
-| 09:10 | Keynote | Nobuko Yoshida | TBA |
-| 09:50 | Contributed | Grigory Neustroev, Mirco Giacobbe and Anna Lukina | Neural Continuous-Time Supermartingale Certificates |
-| 10:10 | Contributed | Xinyuan Tu, Thomas Hildebrandt and Thiago Rocha Silva | From BDD Scenarios to Formally Verifiable Behavioural Models via Dynamic Condition Response Graphs |
+| 09:15 | Opening | AIPV organising team |  |
+| 09:20 | Keynote | Nobuko Yoshida | TBA |
+| 10:00 | Contributed | Grigory Neustroev, Mirco Giacobbe and Anna Lukina | Neural Continuous-Time Supermartingale Certificates |
+| 10:20 | Contributed | Xinyuan Tu, Thomas Hildebrandt and Thiago Rocha Silva | From BDD Scenarios to Formally Verifiable Behavioural Models via Dynamic Condition Response Graphs |
 
 [↑ Back to top](#program)
 
