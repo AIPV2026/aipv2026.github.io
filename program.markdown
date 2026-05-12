@@ -85,9 +85,8 @@ permalink: /program/
 |---|---|---|---|
 | 16:00 | Sponsor | Hendrik Skubch (Noeon Research) | Towards Trustable Machine Reasoning — A case study using variant Sudoku |
 | 16:20 | Contributed | Alcino Cunha and Nuno Macedo | Validating Formal Specifications with LLM-generated Test Cases |
-| 16:40 | Contributed | Martin Berger | Experience report: I've always been wrong about AI |
-| 17:00 | Workshop | Everyone | TBA |
-| 17:40 | Closing | AIPV organising team |  |
+| 16:40 | Workshop | Everyone | TBA |
+| 17:20 | Closing | AIPV organising team |  |
 
 [↑ Back to top](#program)
 
