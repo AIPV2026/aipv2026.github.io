@@ -51,7 +51,7 @@ permalink: /program/
 | 11:20 | Contributed | Cheng-Hui Weng | Inverting the Formalization Workflow: Prototyping an MPC Protocol in Rocq with an LLM Agent |
 | 11:40 | Contributed | Yosuke Ito | Formalizing Actuarial Mathematics in Proof Assistants |
 | 12:00 | Contributed | Qiyuan Xu, Renxi Wang, Peixin Wang, Haonan Li and Conrad Watt | A Minimalist Proof Language for Neural Theorem Proving over Isabelle/HOL |
-| 12:20 | Sponsor | Harmonic | TBA |
+| 12:20 | Sponsor | Harmonic | Automatically Formally Verified Software using Aristotle |
 
 [↑ Back to top](#program)
 
