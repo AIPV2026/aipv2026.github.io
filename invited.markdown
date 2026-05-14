@@ -40,7 +40,7 @@ The work advances decentralised algorithms and communication protocols that supp
 
 Safeguarded AI is embedded through formal verification, runtime assurance, and explainability mechanisms, addressing challenges such as adversarial interference, data integrity, and trust. The integration of distributed learning approaches—such as cooperative and federated learning—allows agents to evolve collectively while maintaining privacy and robustness.
 
-### Keywords: 
+### Keywords
 
 multiparty session types (MPST), decentralised systems, distributed swarm programming, runtime verification, distributed algorithms, communication protocols, fault tolerance, self-healing systems, safeguarded AI, formal methods, cyber-physical systems, resilient swarms.
 
