@@ -46,14 +46,6 @@ Safeguarded AI is embedded through formal verification, runtime assurance, and e
 
 multiparty session types (MPST), decentralised systems, distributed swarm programming, runtime verification, distributed algorithms, communication protocols, fault tolerance, self-healing systems, safeguarded AI, formal methods, cyber-physical systems, resilient swarms.
 
-## [Christian Szegedy](https://www.linkedin.com/in/christian-szegedy-bb284816)
-
-### Biography
-
-Christian Szegedy is a computer scientist known for his contributions to deep learning and neural network design. He contributed to the development of GoogLeNet (Inception v1), which helped shape modern convolutional neural network architectures, and co-authored one of the first papers on adversarial examples, drawing attention to robustness issues in neural networks.
-
-After his work at Google Research, he co-founded xAI, served as Chief Scientist at Morph Labs, and co-founded Math Inc. His career spans foundational research in machine learning, large-scale applied systems, and early-stage AI ventures.
-
 ## [Cezary Kaliszyk](https://ckaliszyk.github.io)
 
 ### Biography
