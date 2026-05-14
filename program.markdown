@@ -66,7 +66,7 @@ permalink: /program/
 
 | Time | Type | Speaker | Title |
 |---|---|---|---|
-| 14:00 | Keynote | Cezary Kaliszyk | TBA |
+| 14:00 | Keynote | Cezary Kaliszyk | Autoformalization Across Proof Assistants: Languages, Proof Styles, and Automation |
 | 14:40 | Contributed | Hyojae Lim | Toward Textbook-Scale Autoformalization with Large Language Models |
 | 15:00 | Contributed | Kaito Baba, Chaoran Liu, Shuhei Kurita and Akiyoshi Sannai | Prover Agent: An Agent-Based Framework for Formal Mathematical Proofs |
 
