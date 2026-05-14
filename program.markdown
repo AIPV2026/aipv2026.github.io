@@ -95,8 +95,8 @@ permalink: /program/
 
 | Time | Type | Note |
 |---|---|---|
-| 17:50 | Sightseeing |  |
-| 18:30 | Reception | Poster |
+| 17:21 | Short guided walking tour | This is an optional informal event strictly outside the scope of AIPV itself. Participation is therefore entirely at your own discretion and responsibility. |
+| 18:00 | Reception | Poster |
 
 ## Day 2 (May 19)
 
