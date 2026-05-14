@@ -7,6 +7,19 @@ permalink: /invited/
 
 # Keynote Talks
 
+## Table of Contents
+
+  - [Conrad Watt at Nanyang Technological University Singapore](#conrad-watt-at-nanyang-technological-university-singapore)
+    - [Title: The Bright Future of Verification Slop](#title-the-bright-future-of-verification-slop)
+    - [Biography](#biography)
+  - [Nobuko Yoshida at The University of Oxford](#nobuko-yoshida-at-the-university-of-oxford)
+    - [Title: Resilient Distributed Intelligent Swarms and Safeguarded AI: Programming Models and Runtime Guarantees](#title-resilient-distributed-intelligent-swarms-and-safeguarded-ai-programming-models-and-runtime-guarantees)
+    - [Keywords](#keywords)
+    - [Biography](#biography-1)
+  - [Cezary Kaliszyk at The University of Melbourne](#cezary-kaliszyk-at-the-university-of-melbourne)
+    - [Title: Autoformalization Across Proof Assistants: Languages, Proof Styles, and Automation](#title-autoformalization-across-proof-assistants-languages-proof-styles-and-automation)
+    - [Biography](#biography-2)
+
 ## [Conrad Watt](https://conrad-watt.github.io) at [Nanyang Technological University Singapore](https://www.ntu.edu.sg)
 
 <a href="https://conrad-watt.github.io" target="_blank">
