@@ -56,4 +56,8 @@ After his work at Google Research, he co-founded xAI, served as Chief Scientist 
 
 ## [Cezary Kaliszyk](https://ckaliszyk.github.io)
 
+### Biography
+
+Prof. Cezary Kaliszyk is a Professor in Theoretical Computer Science at The University of Melbourne, whose research focuses on automated reasoning, interactive theorem proving, and AI-assisted formal mathematics. Before joining Melbourne, he held positions at University of Innsbruck and contributed extensively to the European automated reasoning and formal methods communities. He is one of the long-standing organizers and driving forces behind the Conference on Artificial Intelligence and Theorem Proving (AITP) series, which has become a major venue connecting theorem proving, machine learning, and formalized mathematics research. His work on machine learning for theorem proving, premise selection, hammer systems, and large-scale formal mathematics has been supported through prominent international research collaborations and competitive funding programs, including projects connected to the European research ecosystem. He is widely recognized for helping bridge interactive and automated theorem proving across systems such as Isabelle, HOL4, Coq, and Mizar, and for advancing the practical use of AI techniques in formal verification and mathematical reasoning.
+
 <img id="randomImage" src="" alt="Random Image">
