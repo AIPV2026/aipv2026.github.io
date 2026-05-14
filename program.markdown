@@ -36,7 +36,7 @@ permalink: /program/
 
 [↑ Back to top](#program)
 
-### Coffee Break and Poster 10:30–11:00
+### Coffee Break and Poster 10:40–11:00
 
 | Time | Type | Note |
 |---|---|---|
