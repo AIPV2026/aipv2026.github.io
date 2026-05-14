@@ -13,6 +13,14 @@ permalink: /invited/
 <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/conrad_watt.jpg" style="height:170px; float:left; margin-right:15px;">
 </a>
 
+### Title: The Bright Future of Verification Slop
+
+Computer science researchers have traditionally viewed formal verification as an artisanal pursuit, but recent advances in automation and AI agent capabilities raise the tantalising possibility that large-scale, low-effort verification projects may become commonplace. Such push-button verification is anticipated in some circles as a potential solution for the untrustworthiness of AI-generated code.
+
+I argue that the credibility of past verification projects has come, in greater part than we like to admit, from the presumption that some scholarly humans considered the properties under verification important enough to dedicate significant effort to their proof. In a world where proof is cheap, I believe that the credibility of the average formal verification claim will therefore be significantly weakened. Analogous concerns have been raised in other disciplines where handcrafted contributions, presumed to be worthy of some attention, are becoming systematically displaced by AI-generated "slop".
+
+Thankfully, the mathematical certainty of the properties we prove and the outcome-focussed nature of our verification efforts put us in a better position than most to benefit from this new paradigm of cheap-to-produce, expensive-to-consume material. Drawing from my experiences in trying to get members of WebAssembly's industrial standards community excited about formal verification, I reflect on where our field might end up in the next few years if we find ourselves enjoying an embarrassment of riches.
+
 ### Biography
 Conrad Watt is an Assistant Professor at Nanyang Technological University, Singapore, working in formal methods and programming languages. He has made substantial contributions to theorem proving and mechanised verification, including formalising the WebAssembly specification, identifying specification issues, and developing verified interpreters and tooling adopted by the community. As Chair of the W3C WebAssembly Community Group, he has played a central role in the evolution and standardisation of WebAssembly and in the design of SpecTec, a domain-specific language and toolchain for WebAssembly specification. His work connects interactive proof, language design, and practical verification for real-world systems.
 
@@ -22,17 +30,7 @@ Conrad Watt is an Assistant Professor at Nanyang Technological University, Singa
 <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/nobuko_yoshida.png" style="height:170px; float:left; margin-right:15px;">
 </a>
 
-### Biography
-Nobuko Yoshida is Christopher Strachey Chair of Computing at the University of Oxford. Her research focuses on programming languages, concurrency theory, and formal verification. She is known for her work on session types, behavioural types, and type systems for communication-based
-software, contributing to the foundations of safe and structured interaction in distributed systems.
-
-Her work combines semantic theory with system design, supporting the development of formally specified communication protocols for distributed and cyber-physical systems. She has led international research projects and collaborated with industry and interdisciplinary partners.
-
-She is a recipient of Horizon TaRDIS project which develops programming language tools for distributed intelligent swarms, decentralised AI agents and the next generation of IoT systems, and ARIA funding for a project on safe-guarded AI, which investigates mathematically grounded methods for reliability and accountability in advanced AI systems. Her research connects type theory, concurrency, verification, and the design of trustworthy software systems.
-
 ### Title: Resilient Distributed Intelligent Swarms and Safeguarded AI: Programming Models and Runtime Guarantees
-
-### Abstract:
 
 This talk presents a framework for resilient distributed intelligent swarms built on safeguarded AI principles, focusing on the development of decentralised algorithms and protocols to support distributed swarm programming models at runtime. The approach targets large-scale, adaptive multi-agent systems operating under dynamic, uncertain, and adversarial conditions, where robustness, safety, and coordination are critical.
 
@@ -46,7 +44,33 @@ Safeguarded AI is embedded through formal verification, runtime assurance, and e
 
 multiparty session types (MPST), decentralised systems, distributed swarm programming, runtime verification, distributed algorithms, communication protocols, fault tolerance, self-healing systems, safeguarded AI, formal methods, cyber-physical systems, resilient swarms.
 
-## [Cezary Kaliszyk](https://ckaliszyk.github.io)
+### Biography
+Nobuko Yoshida is Christopher Strachey Chair of Computing at the University of Oxford. Her research focuses on programming languages, concurrency theory, and formal verification. She is known for her work on session types, behavioural types, and type systems for communication-based
+software, contributing to the foundations of safe and structured interaction in distributed systems.
+
+Her work combines semantic theory with system design, supporting the development of formally specified communication protocols for distributed and cyber-physical systems. She has led international research projects and collaborated with industry and interdisciplinary partners.
+
+She is a recipient of Horizon TaRDIS project which develops programming language tools for distributed intelligent swarms, decentralised AI agents and the next generation of IoT systems, and ARIA funding for a project on safe-guarded AI, which investigates mathematically grounded methods for reliability and accountability in advanced AI systems. Her research connects type theory, concurrency, verification, and the design of trustworthy software systems.
+
+## [Cezary Kaliszyk](https://ckaliszyk.github.io) at [The University of Melbourne](https://www.unimelb.edu.au)
+
+### Title: Autoformalization Across Proof Assistants: Languages, Proof Styles, and Automation
+
+Abstract: This talk compares several lines of LLM-assisted
+autoformalization across Megalodon, Isabelle/HOL, and Mizar, spanning
+different mathematical domains and proof-assistant cultures. The
+Megalodon work studies decentralized proof development with multiple
+LLM-based coding agents, using a simulated bounty marketplace in which
+agents propose lemmas, assign proof obligations, invoke tactics,
+inspect proof states, and compete to complete verified formal
+developments. The Isabelle/HOL work emphasizes large-scale textbook
+formalization using a sorry-first workflow and extensive automation,
+while the Mizar work highlights declarative proof style, library
+alignment, and the formalization of surreal numbers. Taken together,
+these projects show that autoformalization is not a single uniform
+task, but a family of workflows shaped by formal language, proof
+style, automation, library structure, and the ways in which LLM agents
+interact with proof assistants.
 
 ### Biography
 
