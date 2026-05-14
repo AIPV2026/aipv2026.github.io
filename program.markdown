@@ -61,7 +61,7 @@ permalink: /program/
 |---|---|---|
 | 12:40 | Lunch Break | Poster |
 
-### Session-3 14:00–15:30 (Theme: Mathematics, Chair: TBA)
+### Session-3 14:00–15:30 (Theme: Mathematics, Chair: Minchao Wu)
 <a id="day1-session3"></a>
 
 | Time | Type | Speaker | Title |
