@@ -67,6 +67,10 @@ She is a recipient of Horizon TaRDIS project which develops programming language
 
 ## [Cezary Kaliszyk](https://ckaliszyk.github.io) at [The University of Melbourne](https://www.unimelb.edu.au)
 
+<a href="https://ckaliszyk.github.io" target="_blank">
+<img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/cezary_kaliszyk.jpg" style="height:170px; float:left; margin-right:15px;">
+</a>
+
 ### Title: Autoformalization Across Proof Assistants: Languages, Proof Styles, and Automation
 
 Abstract: This talk compares several lines of LLM-assisted
