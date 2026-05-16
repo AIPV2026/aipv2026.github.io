@@ -107,8 +107,8 @@ permalink: /program/
 |---|---|---|---|---|
 | 09:00 | Opening | AIPV organising team |  |  |
 | 09:10 | Keynote | Nobuko Yoshida | Resilient Distributed Intelligent Swarms and Safeguarded AI: Programming Models and Runtime Guarantees |  |
-| 09:50 | Contributed | Grigory Neustroev, Mirco Giacobbe and Anna Lukina | Neural Continuous-Time Supermartingale Certificates |  |
-| 10:10 | Contributed | Xinyuan Tu, Thomas Hildebrandt and Thiago Rocha Silva | From BDD Scenarios to Formally Verifiable Behavioural Models via Dynamic Condition Response Graphs |  |
+| 09:50 | Contributed | Grigory Neustroev, Mirco Giacobbe and Anna Lukina | Neural Continuous-Time Supermartingale Certificates | ID04 |
+| 10:10 | Contributed | Xinyuan Tu, Thomas Hildebrandt and Thiago Rocha Silva | From BDD Scenarios to Formally Verifiable Behavioural Models via Dynamic Condition Response Graphs | ID14 |
 
 [↑ Back to top](#program)
 
