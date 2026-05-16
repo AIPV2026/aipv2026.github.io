@@ -90,13 +90,15 @@ permalink: /program/
 
 [↑ Back to top](#program)
 
-### Reception 18:30–20:40
+### Reception 18:30–20:40 in Room 201-203
 <a id="day1-reception"></a>
+
+Participants from other FM 2026 workshops are also warmly welcome to join the reception, especially if they take the opportunity to have a look at the AIPV posters and interact with the presenters.
 
 | Time | Type | Note |
 |---|---|---|
 | 17:21 | Short guided walking tour | This is an optional informal event strictly outside the scope of AIPV itself. Participation is therefore entirely at your own discretion and responsibility. |
-| 18:00 | Reception | Poster |
+| 18:00 | Reception | Poster (Room 201-203). |
 
 ## Day 2 (May 19)
 
