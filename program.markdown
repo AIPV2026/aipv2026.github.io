@@ -48,9 +48,9 @@ permalink: /program/
 | Time | Type | Speaker | Title | Material |
 |---|---|---|---|---|
 | 11:00 | Contributed | Chengsong Tan, Jonathan Julián Huerta y Munive, John Wickerson and Alastair F. Donaldson | Automated Sketching and Repairing of Large Mechanised Proofs | ID02 [slide](/assets/slides/AIPV2026_slide_XXX2.pdf)|
-| 11:20 | Contributed | Cheng-Hui Weng | Inverting the Formalization Workflow: Prototyping an MPC Protocol in Rocq with an LLM Agent | ID11 |
-| 11:40 | Contributed | Yosuke Ito | Formalizing Actuarial Mathematics in Proof Assistants | ID01 [slide](/assets/slides/AIPV2026_slide_XXX1.pdf) |
-| 12:00 | Contributed | Qiyuan Xu, Renxi Wang, Peixin Wang, Haonan Li and Conrad Watt | A Minimalist Proof Language for Neural Theorem Proving over Isabelle/HOL | ID18 |
+| 11:20 | Contributed | Cheng-Hui Weng | Inverting the Formalization Workflow: Prototyping an MPC Protocol in Rocq with an LLM Agent | ID11  [poster](/assets/slides/AIPV2026_poster_XXX11.pdf) |
+| 11:40 | Contributed | Yosuke Ito | Formalizing Actuarial Mathematics in Proof Assistants | ID01 [slide](/assets/slides/AIPV2026_slide_XXX1.pdf)  [poster](/assets/slides/AIPV2026_poster_XXX1.pdf) |
+| 12:00 | Contributed | Qiyuan Xu, Renxi Wang, Peixin Wang, Haonan Li and Conrad Watt | A Minimalist Proof Language for Neural Theorem Proving over Isabelle/HOL | ID18 [poster](/assets/slides/AIPV2026_poster_XXX18.pdf) |
 | 12:20 | Sponsor | Harmonic | Automatically Formally Verified Software using Aristotle |  |
 
 [↑ Back to top](#program)
@@ -108,7 +108,7 @@ permalink: /program/
 | 09:00 | Opening | AIPV organising team |  |  |
 | 09:10 | Keynote | Nobuko Yoshida | Resilient Distributed Intelligent Swarms and Safeguarded AI: Programming Models and Runtime Guarantees |  |
 | 09:50 | Contributed | Grigory Neustroev, Mirco Giacobbe and Anna Lukina | Neural Continuous-Time Supermartingale Certificates | ID04 [slide](/assets/slides/AIPV2026_slide_XXX4.pdf) |
-| 10:10 | Contributed | Xinyuan Tu, Thomas Hildebrandt and Thiago Rocha Silva | From BDD Scenarios to Formally Verifiable Behavioural Models via Dynamic Condition Response Graphs | ID14 |
+| 10:10 | Contributed | Xinyuan Tu, Thomas Hildebrandt and Thiago Rocha Silva | From BDD Scenarios to Formally Verifiable Behavioural Models via Dynamic Condition Response Graphs | ID14 [poster](/assets/slides/AIPV2026_poster_XXX14.pdf)|
 
 [↑ Back to top](#program)
 
@@ -123,9 +123,9 @@ permalink: /program/
 
 | Time | Type | Speaker | Title | Material |
 |---|---|---|---|---|
-| 11:00 | Contributed | Vasily Ilin | Semi-Autonomous Formalization of the Vlasov-Maxwell-Landau Equilibrium | ID22 |
+| 11:00 | Contributed | Vasily Ilin | Semi-Autonomous Formalization of the Vlasov-Maxwell-Landau Equilibrium | ID22 [poster](/assets/slides/AIPV2026_poster_XX22.pdf)|
 | 11:20 | Contributed | Banri Yanahama and Akiyoshi Sannai | Lean Atlas: An Integrated Proof Environment for Scalable Human-AI Collaborative Formalization | ID17 |
-| 11:40 | Contributed | Austin Letson, Leopoldo Sarra, Auguste Poiroux, Oliver Dressler, Paul Lezeau, Dhyan Aranha, Frederick Pu, Aaron Hill, Miguel Corredera Hidalgo, Julian Berman, George Tsoukalas and Lenny Taelman | SorryDB: Can AI Provers Complete Real-World Lean Theorems? | ID21 |
+| 11:40 | Contributed | Austin Letson, Leopoldo Sarra, Auguste Poiroux, Oliver Dressler, Paul Lezeau, Dhyan Aranha, Frederick Pu, Aaron Hill, Miguel Corredera Hidalgo, Julian Berman, George Tsoukalas and Lenny Taelman | SorryDB: Can AI Provers Complete Real-World Lean Theorems? | ID21 [poster](/assets/slides/AIPV2026_poster_XX21.pdf) |
 | 12:00 | Sponsored |  Jimmy Shin (AxiomMath.ai) | AXLE: Free, Public Lean 4 Tooling for AI-Driven Mathematics |  |
 
 [↑ Back to top](#program)
@@ -143,7 +143,7 @@ permalink: /program/
 |---|---|---|---|---|
 | 14:00 | Contributed | Balaji Rao, John Harrison, Soonho Kong, Juneyoung Lee and Carlo Lipizzi | s2n-bignum-bench: A practical benchmark for evaluating low-level code reasoning of LLMs | ID15 [slide](/assets/slides/AIPV2026_slide_XXX15.pdf) |
 | 14:20 | Contributed | Minghao Liu, Chia-Hsuan Lu and Marta Kwiatkowska | Exact Verification of Graph Neural Networks with Incremental Constraint Solving | ID08 [slide](/assets/slides/AIPV2026_slide_XXX8.pdf) |
-| 14:40 | Contributed | Mohammad Afzal, S. Akshay, Blaise Genest and Ashutosh Gupta | Formal Reasoning About Confidence and Automated Verification of Neural Networks | ID12 |
+| 14:40 | Contributed | Mohammad Afzal, S. Akshay, Blaise Genest and Ashutosh Gupta | Formal Reasoning About Confidence and Automated Verification of Neural Networks | ID12 [poster](/assets/slides/AIPV2026_poster_XXX12.pdf) |
 | 15:00 | Contributed | Sho Sonoda | Why Agentic Theorem Prover Works: A Statistical Provability Theory of Mathematical Reasoning Models | ID13 |
 
 [↑ Back to top](#program)
@@ -160,7 +160,7 @@ permalink: /program/
 | Time | Type | Speaker | Title | Material |
 |---|---|---|---|---|
 | 16:00 | Contributed | Holly Hendry, Pedro Ribeiro and Frank Soboczenski | Large Language Models for Verification of Reactive Programs | ID09 |
-| 16:20 | Contributed | Alberto Tagliaferro, Bruno Guindani, Livia Lestingi and Matteo Giovanni Rossi | Towards an Agentic LLM-based Approach to Requirement Formalization from Unstructured Specifications | ID19 [slide](/assets/slides/AIPV2026_slide_XXX19.pdf) |
+| 16:20 | Contributed | Alberto Tagliaferro, Bruno Guindani, Livia Lestingi and Matteo Giovanni Rossi | Towards an Agentic LLM-based Approach to Requirement Formalization from Unstructured Specifications | ID19 [slide](/assets/slides/AIPV2026_slide_XXX19.pdf)  [poster](/assets/slides/AIPV2026_poster_XXX19.pdf) |
 | 16:40 | Contributed | Liao Zhang | Signal Shot: End-to-End Formal Verification of Signal's Cryptographic Stack | ID23  [slide](/assets/slides/AIPV2026_slide_XXX23.pdf) |
 | 17:00 | Round Table | TBA | Panel Discussion |  |
 | 17:40 | Closing | AIPV organising team |  |  |
