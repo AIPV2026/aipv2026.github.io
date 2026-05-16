@@ -68,7 +68,7 @@ permalink: /program/
 |---|---|---|---|---|
 | 14:00 | Keynote | Cezary Kaliszyk | Autoformalization Across Proof Assistants: Languages, Proof Styles, and Automation | |
 | 14:40 | Contributed | Hyojae Lim | Toward Textbook-Scale Autoformalization with Large Language Models | ID03 |
-| 15:00 | Contributed | Kaito Baba, Chaoran Liu, Shuhei Kurita and Akiyoshi Sannai | Prover Agent: An Agent-Based Framework for Formal Mathematical Proofs | ID07 |
+| 15:00 | Contributed | Kaito Baba, Chaoran Liu, Shuhei Kurita and Akiyoshi Sannai | Prover Agent: An Agent-Based Framework for Formal Mathematical Proofs | ID07 [slide](/assets/slides/AIPV2026_slide_XXX7.pdf) |
 
 [↑ Back to top](#program)
 
@@ -84,7 +84,7 @@ permalink: /program/
 | Time | Type | Speaker | Title | Material |
 |---|---|---|---|---|
 | 16:00 | Sponsor | Hendrik Skubch (Noeon Research) | Towards Trustable Machine Reasoning — A case study using variant Sudoku |  |
-| 16:20 | Contributed | Alcino Cunha and Nuno Macedo | Validating Formal Specifications with LLM-generated Test Cases | ID05 |
+| 16:20 | Contributed | Alcino Cunha and Nuno Macedo | Validating Formal Specifications with LLM-generated Test Cases | ID05 [slide](/assets/slides/AIPV2026_slide_XXX5.pdf) |
 | 16:40 | Workshop | Everyone | TBA |  |
 | 17:20 | Closing | AIPV organising team |  |  |
 
@@ -107,7 +107,7 @@ permalink: /program/
 |---|---|---|---|---|
 | 09:00 | Opening | AIPV organising team |  |  |
 | 09:10 | Keynote | Nobuko Yoshida | Resilient Distributed Intelligent Swarms and Safeguarded AI: Programming Models and Runtime Guarantees |  |
-| 09:50 | Contributed | Grigory Neustroev, Mirco Giacobbe and Anna Lukina | Neural Continuous-Time Supermartingale Certificates | ID04 |
+| 09:50 | Contributed | Grigory Neustroev, Mirco Giacobbe and Anna Lukina | Neural Continuous-Time Supermartingale Certificates | ID04 [slide](/assets/slides/AIPV2026_slide_XXX4.pdf) |
 | 10:10 | Contributed | Xinyuan Tu, Thomas Hildebrandt and Thiago Rocha Silva | From BDD Scenarios to Formally Verifiable Behavioural Models via Dynamic Condition Response Graphs | ID14 |
 
 [↑ Back to top](#program)
@@ -142,7 +142,7 @@ permalink: /program/
 | Time | Type | Speaker | Title | Material |
 |---|---|---|---|---|
 | 14:00 | Contributed | Balaji Rao, John Harrison, Soonho Kong, Juneyoung Lee and Carlo Lipizzi | s2n-bignum-bench: A practical benchmark for evaluating low-level code reasoning of LLMs | ID15 [slide](/assets/slides/AIPV2026_slide_XXX15.pdf) |
-| 14:20 | Contributed | Minghao Liu, Chia-Hsuan Lu and Marta Kwiatkowska | Exact Verification of Graph Neural Networks with Incremental Constraint Solving | ID08 |
+| 14:20 | Contributed | Minghao Liu, Chia-Hsuan Lu and Marta Kwiatkowska | Exact Verification of Graph Neural Networks with Incremental Constraint Solving | ID08 [slide](/assets/slides/AIPV2026_slide_XXX8.pdf) |
 | 14:40 | Contributed | Mohammad Afzal, S. Akshay, Blaise Genest and Ashutosh Gupta | Formal Reasoning About Confidence and Automated Verification of Neural Networks | ID12 |
 | 15:00 | Contributed | Sho Sonoda | Why Agentic Theorem Prover Works: A Statistical Provability Theory of Mathematical Reasoning Models | ID13 |
 
