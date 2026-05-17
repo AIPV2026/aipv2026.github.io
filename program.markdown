@@ -32,7 +32,7 @@ permalink: /program/
 | 09:15 | Opening | AIPV organising team |  |  |
 | 09:20 | Keynote | Conrad Watt | The Bright Future of Verification Slop |  |
 | 10:00 | Contributed | Raik Hipler and Martin Leucker | Machine Learning for Stream-Based Diagnosis | ID10 [slide](/assets/slides/AIPV2026_slide_XXX10.pdf) |
-| 10:20 | Contributed | Borja Requena, Austin Letson, Krystian Nowakowski, Izan Beltran Ferreiro and Leopoldo Sarra | A Minimal Agent for Automated Theorem Proving | ID20 |
+| 10:20 | Contributed | Borja Requena, Austin Letson, Krystian Nowakowski, Izan Beltran Ferreiro and Leopoldo Sarra | A Minimal Agent for Automated Theorem Proving | ID20 [poster](/assets/slides/AIPV2026_poster_XXX20.pdf)|
 
 [↑ Back to top](#program)
 
