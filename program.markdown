@@ -24,7 +24,7 @@ permalink: /program/
 ## Day 1 (May 18)
 <a id="day1"></a>
 
-### Session-1 09:00–10:30 (Theme: Verification, Chair: TBA)
+### Session-1 09:00–10:30 (Theme: Verification, Chair: Yutaka Nagashima)
 <a id="day1-session1"></a>
 
 | Time | Type | Speaker | Title | Material |
