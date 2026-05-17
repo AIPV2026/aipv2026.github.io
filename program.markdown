@@ -47,11 +47,12 @@ permalink: /program/
 
 | Time | Type | Speaker | Title | Material |
 |---|---|---|---|---|
-| 11:00 | Contributed | Chengsong Tan, Jonathan Julián Huerta y Munive, John Wickerson and Alastair F. Donaldson | Automated Sketching and Repairing of Large Mechanised Proofs | ID02 [slide](/assets/slides/AIPV2026_slide_XXX2.pdf) [poster](/assets/posters/AIPV2026_poster_XXX2.pdf) [paper](/assets/papers/AIPV2026_camera_ready_XXX2.pdf)|
+| 11:00 | Sponsor | Harmonic | Automatically Formally Verified Software using Aristotle |  |
 | 11:20 | Contributed | Cheng-Hui Weng | Inverting the Formalization Workflow: Prototyping an MPC Protocol in Rocq with an LLM Agent | ID11  [poster](/assets/posters/AIPV2026_poster_XXX11.pdf) [paper](/assets/papers/AIPV2026_camera_ready_XXX11.pdf)|
 | 11:40 | Contributed | Yosuke Ito | Formalizing Actuarial Mathematics in Proof Assistants | ID01 [slide](/assets/slides/AIPV2026_slide_XXX1.pdf)  [poster](/assets/posters/AIPV2026_poster_XXX1.pdf) [paper](/assets/papers/AIPV2026_camera_ready_XXX1.pdf) |
 | 12:00 | Contributed | Qiyuan Xu, Renxi Wang, Peixin Wang, Haonan Li and Conrad Watt | A Minimalist Proof Language for Neural Theorem Proving over Isabelle/HOL | ID18 [poster](/assets/posters/AIPV2026_poster_XXX18.pdf) |
-| 12:20 | Sponsor | Harmonic | Automatically Formally Verified Software using Aristotle |  |
+| 12:20 | Contributed | Chengsong Tan, Jonathan Julián Huerta y Munive, John Wickerson and Alastair F. Donaldson | Automated Sketching and Repairing of Large Mechanised Proofs | ID02 [slide](/assets/slides/AIPV2026_slide_XXX2.pdf) [poster](/assets/posters/AIPV2026_poster_XXX2.pdf) [paper](/assets/papers/AIPV2026_camera_ready_XXX2.pdf)|
+
 
 [↑ Back to top](#program)
 
