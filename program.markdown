@@ -163,7 +163,7 @@ Participants from other FM 2026 workshops are also warmly welcome to join the re
 | Time | Type | Speaker | Title | Material |
 |---|---|---|---|---|
 | 16:00 | Contributed | Holly Hendry, Pedro Ribeiro and Frank Soboczenski | Large Language Models for Verification of Reactive Programs | ID09 |
-| 16:20 | Contributed | Alberto Tagliaferro, Bruno Guindani, Livia Lestingi and Matteo Giovanni Rossi | Towards an Agentic LLM-based Approach to Requirement Formalization from Unstructured Specifications | ID19 [slide](/assets/slides/AIPV2026_slide_XXX19.pdf)  [poster](/assets/posters/AIPV2026_poster_XXX19.pdf) [paper](/assets/papers/AIPV2026_camera_ready_XXX19.pdf)|
+| 16:20 | Contributed | Alberto Tagliaferro, Bruno Guindani, Livia Lestingi and Matteo Giovanni Rossi | Towards an Agentic LLM-based Approach to Requirement Formalization from Unstructured Specifications | ID19 [slide](/assets/slides/AIPV2026_slide_XXX19.pdf)  [poster](/assets/posters/AIPV2026_poster_XXX19.pdf) [paper](/assets/papers/AIPV2026_camera_ready_XXX19.pdf) [Paper](https://arxiv.org/abs/2604.18228)|
 | 16:40 | Contributed | Liao Zhang | Signal Shot: End-to-End Formal Verification of Signal's Cryptographic Stack | ID23  [slide](/assets/slides/AIPV2026_slide_XXX23.pdf) [poster](/assets/posters/AIPV2026_poster_XXX23.pdf) [paper](/assets/papers/AIPV2026_camera_ready_XXX23.pdf)|
 | 17:00 | Round Table | TBA | Panel Discussion |  |
 | 17:40 | Closing | AIPV organising team |  |  |
