@@ -85,7 +85,7 @@ permalink: /program/
 | Time | Type | Speaker | Title | Material |
 |---|---|---|---|---|
 | 16:00 | Sponsor | Hendrik Skubch (Noeon Research) | Towards Trustable Machine Reasoning — A case study using variant Sudoku |  |
-| 16:20 | Contributed | Alcino Cunha and Nuno Macedo | Validating Formal Specifications with LLM-generated Test Cases | ID05 [slide](/assets/slides/AIPV2026_slide_XXX5.pdf) |
+| 16:20 | Contributed | Alcino Cunha and Nuno Macedo | Validating Formal Specifications with LLM-generated Test Cases | ID05 [slide](/assets/slides/AIPV2026_slide_XXX5.pdf) [Paper](https://arxiv.org/abs/2510.23350)|
 | 16:40 | Workshop | Everyone | Research Ideas | [slide (please familiarize with the objective)](/assets/slides/AIPV_workshop_slides.pdf) |
 | 17:20 | Closing | AIPV organising team |  |  |
 
