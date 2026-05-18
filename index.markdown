@@ -190,6 +190,13 @@ At the core of Axiomatic's platform is Axiomatic AI's Lemma, a system that combi
 Axiomatic's technology supports workflows across domains such as photonics, electronics, mechanics, and signal processing—helping teams accelerate design, extract insights from technical data, and ensure consistency with real-world constraints. By embedding verification directly into the AI process, Axiomatic reduces the gap between experimentation and reliable deployment.
 Axiomatic's mission is to increase the velocity of scientific discovery and engineering innovation by building AI systems that scientists and engineers can trust.
 
+## Sponsor (Supporter)
+
+<div style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/sponsor/JetBrains_Logo.png"
+    style="max-width: 100%; height: auto;">
+</div>
+
 ## Important Dates
 The following is the tentative timeline of AIPV
 - ~~Workshop paper/abstract submission: March 15 2026 (23:59 AoE)~~
