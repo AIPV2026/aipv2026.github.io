@@ -79,7 +79,7 @@ permalink: /program/
 |---|---|---|
 | 15:30 | Coffee Break | Poster |
 
-### Session 4 16:00–17:40 (Theme: Application, Chair: Conrad Watt)
+### Session 4 16:00–17:40 (Theme: Application, Chair: Chengsong Tan)
 <a id="day1-session4"></a>
 
 | Time | Type | Speaker | Title | Material |
