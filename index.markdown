@@ -167,6 +167,15 @@ AIPV was supported by the research programme of the Strategy AV21 AI: Artificial
        style="max-width: 100%; height: auto;">
 </a>
 
+<div style="display: flex; align-items: center;">
+  <a href="https://axiommath.ai" target="_blank">
+    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/sponsor/Axiom_Logo.svg"
+      style="max-width: 100%; height: auto;"><!-- Adjust margin as needed -->
+  </a>
+</div>
+
+Axiom builds AI systems that reason with mathematical precision for applications in finance, cryptography, software verification and scientific research—domains where correctness isn't optional. Founded in March 2025 by Morgan Prize winner Carina Hong, Axiom raised $64M in seed funding at a $300M valuation. The team includes researchers from Meta's FAIR lab and mathematician Ken Ono, former VP of the American Mathematical Society. Axiom's AI system AxiomProver achieved a perfect score on the Putnam, the world's hardest undergraduate math exam, and has autonomously solved research math problems with zero human guidance - including the Chen-Gendron conjecture and Fel's conjecture.
+
 ## Sponsor (Contributor)
 
 <div style="display: flex; align-items: center;">
