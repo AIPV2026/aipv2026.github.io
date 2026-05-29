@@ -205,9 +205,9 @@ The following is the tentative timeline of AIPV
 - ~~Camera-ready submission: April 30 2026 (23:59 AoE)~~
 - ~~External link (optional): April 30 2026 (23:59 AoE)~~
 - ~~Poster submission: May 5 2026 (23:59 AoE)~~
-- Slides submission: May 14 2026 (23:59 AoE) **APPROACHING!**
-- [Late registration](https://conf.researchr.org/attending/fm-2026/registration) closes: May 14 (AoE) 
-- Workshop date: ~~One day~~ Two days before FM 2026 (May 18-19 2026)
+- ~~Slides submission: May 14 2026 (23:59 AoE)~~
+- ~~[Late registration](https://conf.researchr.org/attending/fm-2026/registration) closes: May 14 (AoE)~~
+- ~~Workshop date: Two days before FM 2026 (May 18-19 2026)~~
 
 ## Venue
 
