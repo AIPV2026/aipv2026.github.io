@@ -147,7 +147,7 @@ Participants from other FM 2026 workshops are also warmly welcome to join the re
 | 14:00 | Contributed | Balaji Rao, John Harrison, Soonho Kong, Juneyoung Lee and Carlo Lipizzi | s2n-bignum-bench: A practical benchmark for evaluating low-level code reasoning of LLMs | ID15 [slide](/assets/slides/AIPV2026_slide_XXX15.pdf) [Project](https://github.com/kings-crown/s2n-bignum-bench) [LinkedIn](https://www.linkedin.com/in/balajirao97/) [Leaderboard](https://kings-crown.github.io/s2n-bignum-leaderboard/) [YouTube](https://youtu.be/ORW5SUksVfk)|
 | 14:20 | Contributed | Minghao Liu, Chia-Hsuan Lu and Marta Kwiatkowska | Exact Verification of Graph Neural Networks with Incremental Constraint Solving | ID08 [slide](/assets/slides/AIPV2026_slide_XXX8.pdf) [poster](/assets/posters/AIPV2026_poster_XXX8.pdf) [paper](/assets/papers/AIPV2026_camera_ready_XXX8.pdf) [paper](/assets/papers/AIPV2026_camera_ready_XXX15.pdf)|
 | 14:40 | Contributed | Mohammad Afzal, S. Akshay, Blaise Genest and Ashutosh Gupta | Formal Reasoning About Confidence and Automated Verification of Neural Networks | ID12 [poster](/assets/posters/AIPV2026_poster_XXX12.pdf) |
-| 15:00 | Contributed | Sho Sonoda | Why Agentic Theorem Prover Works: A Statistical Provability Theory of Mathematical Reasoning Models | ID13 |
+| 15:00 | Contributed | Sho Sonoda | Why Agentic Theorem Prover Works: A Statistical Provability Theory of Mathematical Reasoning Models | ID13 [paper1](https://arxiv.org/abs/2602.10538) [paper2](https://arxiv.org/abs/2602.10512) |
 
 [↑ Back to top](#program)
 
