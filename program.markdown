@@ -67,7 +67,7 @@ permalink: /program/
 
 | Time | Type | Speaker | Title | Material |
 |---|---|---|---|---|
-| 14:00 | Keynote | Cezary Kaliszyk | Autoformalization Across Proof Assistants: Languages, Proof Styles, and Automation | [slide](/assets/posters/AIPV2026_slide_Cezary.pdf) |
+| 14:00 | Keynote | Cezary Kaliszyk | Autoformalization Across Proof Assistants: Languages, Proof Styles, and Automation | [slide](/assets/slides/AIPV2026_slide_Cezary.pdf) |
 | 14:40 | Contributed | Hyojae Lim | Toward Textbook-Scale Autoformalization with Large Language Models | ID03 |
 | 15:00 | Contributed | Kaito Baba, Chaoran Liu, Shuhei Kurita and Akiyoshi Sannai | Prover Agent: An Agent-Based Framework for Formal Mathematical Proofs | ID07 [slide](/assets/slides/AIPV2026_slide_XXX7.pdf)  [poster](/assets/posters/AIPV2026_poster_XXX7.pdf) [paper](/assets/papers/AIPV2026_camera_ready_XXX7.pdf) [GitHub](https://github.com/kAIto47802/Prover-Agent) [Paper](https://arxiv.org/abs/2506.19923) |
 
