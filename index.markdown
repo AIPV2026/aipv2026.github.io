@@ -139,7 +139,7 @@ The administrative and financial operations of AIPV 2026 are supported by [ASTER
 
 ## Financial Support
 
-We’re proud to announce that our project was selected to receive funding through the AI for Math Fund, 
+We’re proud to announce that AIPV2026 was selected to receive funding through the AI for Math Fund, 
 an initiative by Renaissance Philanthropy with funding support from XTX Markets!
 
 AIPV was supported by the research programme of the Strategy AV21 AI: Artificial Intelligence for Science and Society.
