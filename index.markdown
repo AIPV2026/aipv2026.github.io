@@ -85,6 +85,11 @@ The AI for Proof and Verification (AIPV) addresses precisely these needs. By gat
     <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/kensho_tsurusaki.png" height="170"> <!-- Adjust margin as needed -->
   </a>
 
+  <a href="https://jjhym.com.mx" class="tile">
+    <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/jonathan_huerta.jpg" alt="Jonathan">
+    <span class="tooltip">Link to the page of Jonathan.</span>
+  </a>
+
   <a href="https://yutakang.github.io" class="tile">
     <img src="https://raw.githubusercontent.com/AIPV2026/aipv2026.github.io/main/assets/images/yutaka_nagashima.png" alt="Yutaka">
     <span class="tooltip">Link to the page for machine learning.</span>
